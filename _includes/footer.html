@@ -15,7 +15,7 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
+      <!-- {{ site.time | date: '%Y' }} -->
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -38,8 +38,9 @@
 
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+        <p><strong>About</strong></p>
+        <p> This is the About part
+        </p>
       </p>{% endunless %}
       </div>
     </div>
