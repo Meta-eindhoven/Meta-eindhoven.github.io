@@ -222,12 +222,12 @@ img {
 }
 
 .navbar-toggler {
-  font-size: .8rem;
+  font-size: 1.1rem;
   margin: 0.5rem 0;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
-  background-color: initial;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
