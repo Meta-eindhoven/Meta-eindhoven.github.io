@@ -237,6 +237,22 @@ img {
 .dropdown-toggle::after {
   border-width: 0.4em;
 }
+/* --- Smooth Dropdown Animation --- */
+
+/* Initial closed state of dropdown menu */
+.dropdown-menu {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+  border-radius: 8px; /* Optional: for smoother appearance */
+}
+
+/* Open state of dropdown menu */
+.show .dropdown-menu {
+  max-height: 300px; /* Adjust based on menu content height */
+  opacity: 1;
+}
 
 @media (min-width: 1200px) {
   .navbar-custom {
@@ -383,6 +399,7 @@ img {
 .navbar-custom.top-nav-expanded .avatar-container {
   display: none;
 }
+
 
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
