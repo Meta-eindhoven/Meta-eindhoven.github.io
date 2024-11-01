@@ -292,7 +292,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   margin-top: 0;
-  font-size: .8rem;
+  font-size: 1.1rem;
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
@@ -428,7 +428,7 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px var(--footer-col) solid;
   margin-top: 3.125rem;
-  font-size: 0.875rem;
+  font-size: 1.175rem;
   background-color: var(--footer-col);
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
