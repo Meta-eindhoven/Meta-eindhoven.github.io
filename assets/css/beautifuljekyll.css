@@ -292,7 +292,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   margin-top: 0;
-  font-size: .80em;
+  font-size: .8rem;
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
