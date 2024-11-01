@@ -180,7 +180,7 @@
   max-height: 0;                 /* Collapsed initially */
   opacity: 0;                    /* Fully transparent */
   overflow: hidden;              /* Prevents content overflow */
-  transition: max-height 0.5s ease, opacity 0.5s ease; /* Smooth transition */
+  transition: max-height 3s ease, opacity 3s ease; /* Smooth transition */
 }
 
 /* Styles when the pagination is visible */
