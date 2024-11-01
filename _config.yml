@@ -24,7 +24,7 @@ navbar-links:
   Education:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Reasearch: "https://deanattali.com"
+  Reasearch: 
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Policy Advice: "https://beautifuljekyll.com"
