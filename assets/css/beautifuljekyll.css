@@ -306,7 +306,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
-  background-color: var(--navbar-border-col);
+  background-color: var(--navbar-col);
   text-decoration: none !important;
   font-weight: normal;
   color: var(--navbar-text-col);
