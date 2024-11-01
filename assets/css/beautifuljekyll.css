@@ -239,21 +239,22 @@ img {
 }
 /* --- Smooth Dropdown Animation --- */
 
-/* Initial closed state of dropdown menu */
+/* Initial state of dropdown menu */
 .dropdown-menu {
   max-height: 0;
   opacity: 0;
   overflow: hidden;
-  transition: max-height 0.5s ease, opacity 0.5s ease;
-  border-radius: 8px; /* Optional: for smoother appearance */
+  transform: scaleY(0); /* Collapsed initially */
+  transform-origin: top; /* Expands from the top */
+  transition: transform 0.7s ease, opacity 0.7s ease, max-height 0.7s ease;
 }
 
-/* Open state of dropdown menu */
+/* Dropdown when it’s opened */
 .show .dropdown-menu {
-  max-height: 300px; /* Adjust based on menu content height */
+  max-height: 500px; /* Adjust based on content height */
   opacity: 1;
+  transform: scaleY(1); /* Full expansion */
 }
-
 @media (min-width: 1200px) {
   .navbar-custom {
     padding-top: 1.25rem;
