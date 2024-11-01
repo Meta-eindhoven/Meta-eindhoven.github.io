@@ -177,4 +177,14 @@
   margin-top: 1em;
   padding-top: 0.5em;
   border-top: 1px solid #f2f3f3;
+  max-height: 0;                 /* Collapsed initially */
+  opacity: 0;                    /* Fully transparent */
+  overflow: hidden;              /* Prevents content overflow */
+  transition: max-height 0.5s ease, opacity 0.5s ease; /* Smooth transition */
+}
+
+/* Styles when the pagination is visible */
+.staticman-comments .page__comments + .staticman-comments .pagination.show {
+  max-height: 500px;              /* Adjust based on content */
+  opacity: 1;                     /* Fully visible */
 }
