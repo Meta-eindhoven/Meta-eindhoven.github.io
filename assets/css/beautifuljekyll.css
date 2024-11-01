@@ -205,7 +205,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: capitalize;
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   letter-spacing: 0.0625rem;
 }
 
@@ -222,7 +222,7 @@ img {
 }
 
 .navbar-toggler {
-  font-size: 1.5rem;
+  font-size: .8rem;
   margin: 0.5rem 0;
 }
 .navbar-custom .navbar-toggler:focus,
