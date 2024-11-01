@@ -231,7 +231,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .dropdown-toggle::after {
@@ -282,12 +282,12 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown:hover {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.2);
   }
 }
 
 .navbar-custom .nav-item.dropdown.show {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
@@ -306,7 +306,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
-  background-color: var(--navbar-col);
+  background-color: var(--navbar-border-col);
   text-decoration: none !important;
   font-weight: normal;
   color: var(--navbar-text-col);
