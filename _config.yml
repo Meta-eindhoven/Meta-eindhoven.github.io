@@ -20,14 +20,15 @@ title: The Centre for MetaScience
 ###############################################
 
 navbar-links:
-  Home: "aboutme"
   Education:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Coursera: https://www.coursera.org/instructor/~20199472?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw-JG5BhBZEiwAt7JR61MLAhAVc8gcMGcCVoSYK-oiDo2g8Ap9d7nYxaPKi5Uik0vTiSlfCBoCa88QAvD_BwE"
+    - Master Course: "https://www.markdowntutorial.com/"
+    - Paul Meehl Graduate School: "https://paulmeehlschool.github.io/"
   Reasearch: 
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Publication: "https://beautifuljekyll.com"
+    - Ongoing Projects: "https://www.markdowntutorial.com/"
   Policy Advice: "https://beautifuljekyll.com"
+  People: "aboutme"
   
 ################
 # --- Logo --- #
