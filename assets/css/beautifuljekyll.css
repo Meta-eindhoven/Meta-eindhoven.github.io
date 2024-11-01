@@ -175,7 +175,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.1rem;
+  font-size: 0.85rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -292,7 +292,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   margin-top: 0;
-  font-size: 1.5em;
+  font-size: .80em;
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
