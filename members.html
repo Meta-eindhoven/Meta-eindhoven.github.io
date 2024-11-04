@@ -3,36 +3,103 @@ layout: page
 title: 'Members'
 ---
 
-<!DOCTYPE html> 
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Members</title>
+  <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Include FontAwesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    .people-widget {
+      margin-top: 2rem;
+    }
+    .people-person {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .avatar {
+      border-radius: 50%;
+    }
+    .portrait-title h2 {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+    }
+    .portrait-title h3 {
+      font-size: 1rem;
+      color: #666;
+    }
+    .network-icon {
+      list-style-type: none;
+      padding: 0;
+      margin: 0.5rem 0;
+      display: flex;
+      justify-content: center;
+    }
+    .network-icon li {
+      margin: 0 0.5rem;
+    }
+  </style>
+</head>
+<body>
 
 <div class="container">
   <div class="row justify-content-center people-widget">
-    <div class="col-md-12">
+    <div class="col-md-12 text-center">
       <h2 class="mb-4">Members</h2>
     </div>
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/matthew-j.-dennis/avatar_hu6808d5ae0e1b4b413aa9065106e2376e_21095_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+    <!-- Member 1 -->
+    <div class="col-md-4 col-sm-6 col-12 people-person">
+      <img width="200" height="200" loading="lazy" class="avatar avatar-circle" src="/path/to/image1.jpg" alt="Matthew J. Dennis">
       <div class="portrait-title">
         <h2>Matthew J. Dennis</h2>
         <h3>Co-Director<br>Assistant Professor</h3>
         <ul class="network-icon" aria-hidden="true">
           <li><a href="https://www.matthewjamesdennis.com" target="_blank" rel="noopener">
             <i class="fas fa-globe"></i>
-          </a>
-          </li>
+          </a></li>
           <li><a href="https://philpeople.org/profiles/matthew-dennis-4" target="_blank" rel="noopener">
-            <i class="ai ai-philpapers"></i>
-          </a>
-          </li>
+            <i class="fas fa-book"></i>
+          </a></li>
           <li><a href="https://scholar.google.com/citations?user=rYRz-NoAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar"></i>
-          </a>
-          </li>
+            <i class="fas fa-graduation-cap"></i>
+          </a></li>
         </ul>
       </div>
     </div>
+    
+    <!-- Additional members -->
+    <!-- Copy the col-md-4 col-sm-6 col-12 people-person block for additional members -->
+    <div class="col-md-4 col-sm-6 col-12 people-person">
+      <img width="200" height="200" loading="lazy" class="avatar avatar-circle" src="/path/to/image2.jpg" alt="Another Member">
+      <div class="portrait-title">
+        <h2>Another Member</h2>
+        <h3>Role<br>Position</h3>
+        <ul class="network-icon" aria-hidden="true">
+          <li><a href="https://website.com" target="_blank" rel="noopener">
+            <i class="fas fa-globe"></i>
+          </a></li>
+          <li><a href="https://publicationlink.com" target="_blank" rel="noopener">
+            <i class="fas fa-book"></i>
+          </a></li>
+          <li><a href="https://scholarlyprofile.com" target="_blank" rel="noopener">
+            <i class="fas fa-graduation-cap"></i>
+          </a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Repeat similar blocks for each additional member, ensuring three per row. -->
   </div>
 </div>
 
+<!-- Include Bootstrap JS and dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
 </html>
