@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .year-section { margin-bottom: 2em; }
+        .publication { margin-bottom: 0.5em; }
+        h2 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Publications</h1>
+    {% for year, publications in sorted_publications.items() %}
+    <div class="year-section">
+        <h2>{{ year }}</h2>
+        <ul>
+            {% for pub in publications %}
+            <li class="publication">
+                <strong>{{ pub['title'] }}</strong> by {{ pub['author'] }}. <em>{{ pub['journal'] }}</em> ({{ pub['year'] }}).
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</body>
+</html>
