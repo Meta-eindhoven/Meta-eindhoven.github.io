@@ -25,7 +25,7 @@ navbar-links:
     - Master Course: "https://www.markdowntutorial.com/"
     - Paul Meehl Graduate School: "https://paulmeehlschool.github.io/"
   Reasearch: 
-    - Publication: "https://beautifuljekyll.com"
+    - Publication: "publications"
     - Ongoing Projects: "https://www.markdowntutorial.com/"
   Policy Advice: "https://beautifuljekyll.com"
   People: "members"
