@@ -8,6 +8,7 @@ title: 'Members'
     <div class="col-md-12 text-center">
       <h2 class="mb-4">Members</h2>
     </div>
+    
     <!-- Member 1 -->
     <div class="col-md-4 col-sm-6 col-12 people-person">
       <img width="200" height="200" loading="lazy" class="avatar avatar-circle" src="https://assets.w3.tue.nl/w/fileadmin/_processed_/f/e/csm_94c338b462f8e7a16960e6313021701f_fd74c560cb.jpg" alt="Wybo Houkes">
@@ -47,7 +48,39 @@ title: 'Members'
         </ul>
       </div>
     </div>
-    
-    <!-- Additional members can follow the same format -->
   </div>
 </div>
+
+<style>
+    .people-widget {
+      margin-top: 2rem;
+    }
+    .people-person {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .avatar {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover; /* Maintains aspect ratio without stretching */
+    }
+    .portrait-title h2 {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+    }
+    .portrait-title h3 {
+      font-size: 1rem;
+      color: #666;
+    }
+    .network-icon {
+      list-style-type: none;
+      padding: 0;
+      margin: 0.5rem 0;
+      display: flex; /* Makes the <li> items align horizontally */
+      justify-content: center;
+    }
+    .network-icon li {
+      margin: 0 0.5rem;
+    }
+</style>
