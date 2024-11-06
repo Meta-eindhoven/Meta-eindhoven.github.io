@@ -1,64 +1,7 @@
 ---
-layout: layout
+layout: page
 title: 'Members'
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Members</title>
-  <!-- Include Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <!-- Include FontAwesome for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <style>
-    .people-widget {
-      margin-top: 2rem;
-    }
-    .people-person {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    .avatar {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      object-fit: cover; /* Maintains aspect ratio */
-    }
-    .portrait-title h2 {
-      margin-top: 1rem;
-      font-size: 1.25rem;
-    }
-    .portrait-title h3 {
-      font-size: 1rem;
-      color: #666;
-    }
-    .network-icon {
-      list-style-type: none;
-      padding: 0;
-      margin: 0.5rem 0;
-      display: flex;
-      justify-content: center;
-    }
-    .network-icon li {
-      margin: 0 0.5rem;
-    }
-  </style>
-</head>
-<body>
 
 <div class="container">
   <div class="row justify-content-center people-widget">
@@ -85,8 +28,7 @@ title: 'Members'
       </div>
     </div>
     
-    <!-- Additional members -->
-    <!-- Copy the col-md-4 col-sm-6 col-12 people-person block for additional members -->
+    <!-- Member 2 -->
     <div class="col-md-4 col-sm-6 col-12 people-person">
       <img width="200" height="200" loading="lazy" class="avatar avatar-circle" src="https://assets.w3.tue.nl/w/fileadmin/_processed_/3/d/csm_1b09d2c9acefffedafb5ca6f4bdde8b4_a91a721880.jpg" alt="Daniel Lakens">
       <div class="portrait-title">
@@ -105,28 +47,7 @@ title: 'Members'
         </ul>
       </div>
     </div>
-
-    <!-- Repeat similar blocks for each additional member, ensuring three per row. -->
+    
+    <!-- Additional members can follow the same format -->
   </div>
 </div>
-
-<!-- Include Bootstrap JS and dependencies -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-</body>
-
-      {% if page.after-content %}
-        <div class="after-content">
-          {% for file in page.after-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {% include comments.html %}
-    </div>
-  </div>
-</main>
-</html>
