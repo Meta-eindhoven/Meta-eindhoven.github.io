@@ -26,8 +26,8 @@ navbar-links:
     - Paul Meehl Graduate School: "https://paulmeehlschool.github.io/"
   Reasearch: 
     - Publication: "publications"
-    - Ongoing Projects: "https://www.markdowntutorial.com/"
-  Policy Advice: "https://beautifuljekyll.com"
+    - Ongoing Projects: "ongoing"
+  Policy Advice: "policy"
   People: "members"
   
 ################
