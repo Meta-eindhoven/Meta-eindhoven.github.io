@@ -502,12 +502,14 @@ footer .footer-custom-content {
 
 .posts-list {
     margin: 0 10px 10px 270px;
+    max-width: 25%;
 }
 
 .posts-list {
   list-style: none;        /* Removes default list styling */
   padding: 0;
-  margin: 0;
+  margin: 0 10px 10px 270px;
+  max-width: 25%;
 }
 
 .post-preview {
