@@ -493,8 +493,15 @@ footer .footer-custom-content {
 
 /* --- Post preview (feed) --- */
 
+.posts-sidebar {
+  width: 25%;             /* Takes up 1/4 of the screen */
+  float: left;             /* Aligns to the left side */
+  padding: 20px;           /* Optional padding */
+  box-sizing: border-box;  /* Ensures padding doesn’t affect width */
+}
+
 .posts-list {
-    margin: 0;
+    margin: 0 10px 10px 270px;
 }
 
 .posts-list {
