@@ -496,6 +496,42 @@ footer .footer-custom-content {
 .posts-list {
     margin: 0;
 }
+/* Ensure posts take up full width within the 25% sidebar */
+.posts-sidebar .post-preview .post-entry {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Optional: Make images adapt better to sidebar */
+.posts-sidebar .post-preview .post-image {
+  float: none;               /* Remove float so images don’t align to the right */
+  margin: 0 auto 10px auto;  /* Center-align with spacing below */
+  display: block;
+  width: 100%;               /* Scale to fit the sidebar width */
+  height: auto;              /* Maintain aspect ratio */
+  max-width: 100%;
+}
+
+/* Adjust layout on smaller screens (mobile-friendly) */
+@media (max-width: 767px) {
+  .posts-sidebar {
+    width: 100%;              /* Full width on mobile screens */
+  }
+  .post-preview .post-entry {
+    width: 100%;
+  }
+}
+
+.posts-list {
+  list-style: none;        /* Removes default list styling */
+  padding: 0;
+  margin: 0;
+}
+
+.post-preview {
+  margin-bottom: 20px;     /* Space between posts */
+}
+
 
 .post-preview {
   padding: 1.25rem 0;
