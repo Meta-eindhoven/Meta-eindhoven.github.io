@@ -496,15 +496,15 @@ footer .footer-custom-content {
 .content-and-posts {
   display: flex;
   flex-wrap: nowrap;
-  gap: 20px; /* Space between content and posts */
+  gap: 100px; /* Space between content and posts */
 }
 
 .content-section {
-  flex: 3; /* Content takes up one portion of the space */
+  flex: 1; /* Content takes up one portion of the space */
 }
 
 .posts-section {
-  flex: 1; /* Posts take up twice as much space as the content */
+  flex: 2; /* Posts take up twice as much space as the content */
 }
 
 /* Ensure the posts list and content don't stretch oddly */
