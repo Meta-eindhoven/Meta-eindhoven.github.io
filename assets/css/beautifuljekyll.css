@@ -496,7 +496,7 @@ footer .footer-custom-content {
 .content-and-posts {
   display: flex;
   flex-wrap: nowrap;
-  gap: 100px; /* Space between content and posts */
+  gap: 20px; /* Space between content and posts */
 }
 
 .content-section {
