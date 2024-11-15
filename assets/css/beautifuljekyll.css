@@ -493,6 +493,26 @@ footer .footer-custom-content {
 
 /* --- Post preview (feed) --- */
 
+.content-and-posts {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px; /* Space between content and posts */
+}
+
+.content-section {
+  flex: 1; /* Content takes up one portion of the space */
+}
+
+.posts-section {
+  flex: 2; /* Posts take up twice as much space as the content */
+}
+
+/* Ensure the posts list and content don't stretch oddly */
+.content-section, .posts-section {
+  align-items: flex-start;
+}
+
+
 .posts-sidebar {
   width: 25%;             /* Takes up 1/4 of the screen */
   float: left;             /* Aligns to the left side */
