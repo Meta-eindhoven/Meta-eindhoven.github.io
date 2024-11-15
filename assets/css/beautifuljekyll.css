@@ -500,11 +500,11 @@ footer .footer-custom-content {
 }
 
 .content-section {
-  flex: 1; /* Content takes up one portion of the space */
+  flex: 3; /* Content takes up one portion of the space */
 }
 
 .posts-section {
-  flex: 2; /* Posts take up twice as much space as the content */
+  flex: 1; /* Posts take up twice as much space as the content */
 }
 
 /* Ensure the posts list and content don't stretch oddly */
@@ -513,12 +513,6 @@ footer .footer-custom-content {
 }
 
 
-.posts-sidebar {
-  width: 25%;             /* Takes up 1/4 of the screen */
-  float: left;             /* Aligns to the left side */
-  padding: 20px;           /* Optional padding */
-  box-sizing: border-box;  /* Ensures padding doesn’t affect width */
-}
 
 .posts-list {
     margin: 0;
