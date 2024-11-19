@@ -22,7 +22,9 @@ def render_html(sorted_publications, template_file, output_file):
     env = Environment(loader=FileSystemLoader('.'))
     template = env.get_template(template_file)
     rendered_html = template.render(sorted_publications=sorted_publications)
+    manual_content = "\n --- \n layout: page\n title: 'Publications'\n --- \n\n"
     with open(output_file, "w") as f:
+        f.write(manual_content)
         f.write(rendered_html)
 
 # Main function
