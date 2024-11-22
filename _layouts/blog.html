@@ -2,92 +2,121 @@
 layout: page
 ---
 
+{{ content }}
 
-<div class="posts-section">
-    
-    {% assign blogs = paginator.blogs | default: site.blogs %}
+{% assign blogs = paginator.blogs | default: site.blogs %}
 
-    <!-- role="list" needed so that list-style: none in Safari doesn't remove the list semantics -->
-    <ul class="posts-list list-unstyled" role="list">
-      {% for blog in blogs %}
-      <li class="post-preview">
-        <article>
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for blog in blogs %}
+  <li class="post-preview">
+    <article>
 
-          {%- capture thumbnail -%}
-            {% if blog.thumbnail-img %}
-              {{ blog.thumbnail-img }}
-            {% endif %}
-          {% endcapture %}
-          {% assign thumbnail=thumbnail | strip %}
-
-          {% if blog.feed_show_excerpt == false %}
-          {% if thumbnail != "" %}
-          <div class="post-image post-image-normal">
-            <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
-              <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-            </a>
-          </div>
+      {%- capture thumbnail -%}
+        {% if blog.thumbnail-img %}
+          {{ blog.thumbnail-img }}
+        {% elsif blog.cover-img %}
+          {% if blog.cover-img.first %}
+            {{ blog.cover-img[0].first.first }}
+          {% else %}
+            {{ blog.cover-img }}
           {% endif %}
-          {% endif %}
+        {% else %}
+        {% endif %}
+      {% endcapture %}
+      {% assign thumbnail=thumbnail | strip %}
 
-          <a href="{{ blog.url | absolute_url }}">
-            <h2 class="post-title">{{ blog.title | strip_html }}</h2>
+      {% if site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-normal">
+        <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
 
-            {% if blog.subtitle %}
-              <h3 class="post-subtitle">
-              {{ blog.subtitle | strip_html }}
-              </h3>
-            {% endif %}
-          </a>
+      <a href="{{ blog.url | absolute_url }}">
+        <h2 class="post-title">{{ blog.title | strip_html }}</h2>
 
-          {% if blog.author %}
-            <span>By <strong>{{ blog.author | strip_html }}</strong></span>
-          {% endif %}
+        {% if blog.subtitle %}
+          <h3 class="post-subtitle">
+          {{ blog.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
 
-          {% if thumbnail != "" %}
-          <div class="post-image post-image-small">
-            <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
-              <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-            </a>
-          </div>
-          {% endif %}
+      {% if blog.author %}
+        <span>By <strong>{{ blog.author | strip_html }}</strong></span>
+      {% endif %}
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        Posted on {{ blog.date | date: date_format }}
+      </p>
 
-          {% unless site.feed_show_excerpt == false %}
-          {% if thumbnail != "" %}
-          <div class="post-image post-image-short">
-            <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
-              <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-            </a>
-          </div>
-          {% endif %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
 
-          <div class="post-entry">
-            {% assign excerpt_length = blog.excerpt_length | default: 50 %}
-            {{ blog.excerpt | strip_html | truncatewords: excerpt_length }}
-            {% assign excerpt_word_count = blog.excerpt | number_of_words %}
-            {% if blog.content != blog.excerpt or excerpt_word_count > excerpt_length %}
-              <a href="{{ blog.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-            {% endif %}
-          </div>
-          {% endunless %}
+      {% unless site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-short">
+        <a href="{{ blog.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
 
-          {% if blog.feed_show_tags != false and blog.tags.size > 0 %}
-          <div class="blog-tags">
-            <span>Tags:</span>
-            <!-- role="list" needed so that list-style: none in Safari doesn't remove the list semantics -->
-            <ul class="d-inline list-inline" role="list">
-              {% for tag in blog.tags %}
-              <li class="list-inline-item">
-                <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ blog.excerpt | strip_html | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = blog.excerpt | number_of_words %}
+        {% if blog.content != blog.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ blog.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+      {% endunless %}
 
-        </article>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+      {% if site.feed_show_tags != false and blog.tags.size > 0 %}
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          {% for tag in blog.tags %}
+          <li class="list-inline-item">
+            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if paginator.previous_page %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
+      <i class="fas fa-arrow-left" alt="Newer Posts"></i>
+      <span class="d-none d-sm-inline-block">Newer Posts</span>
+    </a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
+      <span class="d-none d-sm-inline-block">Older Posts</span>
+      <i class="fas fa-arrow-right" alt="Older Posts"></i>
+    </a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
