@@ -269,6 +269,7 @@ date_format: "%B %-d, %Y"
 collections:
   blogs:
     output: true
+    permalink: /blogs/:title/
 
 
 
