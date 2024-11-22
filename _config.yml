@@ -266,6 +266,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
+collections:
+  blogs:
+    output: true
+    permalink: /blogs/:title/
+
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Amsterdam"
@@ -288,14 +293,7 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
-     scope:
-      path: ""
-      type: "blogs"
-    values:
-      layout: "blog"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
+
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
