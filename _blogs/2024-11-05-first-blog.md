@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First blog post
+author: Sajedeh
 mathjax: true
 ---
 
