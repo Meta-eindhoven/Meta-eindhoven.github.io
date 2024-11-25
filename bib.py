@@ -1,7 +1,7 @@
 import bibtexparser
 from jinja2 import Environment, FileSystemLoader
 from collections import defaultdict
-from pylatexenc import LatexNodes2Text
+from pylatexenc.latex2text import LatexNodes2Text
 
 # Define the list of names to bold
 names_to_bold = {"Wybo Houkes", "Andrea Kis", "Daniël Lakens", "Sajedeh Rasti", "Cristian Mesquida", "Vlasta Sikimić", "Krist Vaesen"}  # Add the names you want to bold here
@@ -50,7 +50,7 @@ def render_html(sorted_publications, template_file, output_file):
     env = Environment(loader=FileSystemLoader('.'))
     template = env.get_template(template_file)
     rendered_html = template.render(sorted_publications=sorted_publications)
-    manual_content = "\n --- \n layout: page\n title: 'Publications'\n --- \n\n"
+    manual_content = "\n --- \n layout: page\n --- \n\n"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(manual_content)
         f.write(rendered_html)
