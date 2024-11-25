@@ -25,12 +25,12 @@ layout: page
   <ul>
   <li><strong>0FC06 – Philosophy of Science and Technology</strong>: Science and technology are amazing phenomena, which have (had) an enormous impact on our lives. But, what exactly is so special about them? In this course, we analyze the various answers philosophers of science and technology have proposed. In Module 1, we discuss general issues related to reasoning in science and technology. Module 2 concerns the question of whether there is progress in science and technology. Finally, in Module 3, we read and discuss a couple of primary texts in the philosophy of science and technology. The texts are critical in nature: they challenge widely cherished qualities of science and technology, e.g., their supposed rationality, objectivity, and promotion of human welfare.</li></ul></div>
   
-    **Responsible teachers**: Dr. Krist Vaesen
+   **Responsible teachers**: Dr. Krist Vaesen
 
 <br>
 
 *Graduate courses* 
-<a href="education" title="Education">education</a>
+
 <div style="text-align: justify;">
   <ul>
   <li><a href="https://paulmeehlschool.github.io/"> The Paul Meehl Graduate School</a>: The Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focused on improving the quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer workshops on a variety of metascientific topics that provide PhD students with the opportunity to enhance their skills and engage in meaningful discussions with fellow metascientists. In the Paul Meehl Graduate School we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation. </li></ul></div>
@@ -38,10 +38,14 @@ layout: page
 <br>
 *Courses for broad audiences*
 
-- [Improving your statistical inferences (MOOC on Coursera)](https://www.coursera.org/learn/statistical-inferences): This course aims to help you to draw better statistical inferences from empirical research. First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, Bayes Factors, and likelihood ratios, and how these statistics answer different questions you might be interested in. Then, you will learn how to design experiments where the false positive rate is controlled, and how to decide upon the sample size for your study, for example in order to achieve high statistical power. Subsequently, you will learn how to interpret evidence in the scientific literature given widespread publication bias, for example by learning about p-curve analysis. Finally, we will talk about how to do philosophy of science, theory construction, and cumulative science, including how to perform replication studies, why and how to pre-register your experiment, and how to share your results following Open Science principles. 
+<div style="text-align: justify;">
+  <ul>
+  <li><a href="https://www.coursera.org/learn/statistical-inferences"> Improving your statistical inferences (MOOC on Coursera)</a>: This course aims to help you to draw better statistical inferences from empirical research. First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, Bayes Factors, and likelihood ratios, and how these statistics answer different questions you might be interested in. Then, you will learn how to design experiments where the false positive rate is controlled, and how to decide upon the sample size for your study, for example in order to achieve high statistical power. Subsequently, you will learn how to interpret evidence in the scientific literature given widespread publication bias, for example by learning about p-curve analysis. Finally, we will talk about how to do philosophy of science, theory construction, and cumulative science, including how to perform replication studies, why and how to pre-register your experiment, and how to share your results following Open Science principles. </li></ul></div>
 
   **Responsible teachers**: Dr. Daniël Lakens 
 
-- [Improving your statistical questions (MOOC on Coursera)](https://www.coursera.org/learn/improving-statistical-questions): This course aims to help you to ask better statistical questions when performing empirical research. We will discuss how to design informative studies, both when your predictions are correct, as when your predictions are wrong. We will question norms, and reflect on how we can improve research practices to ask more interesting questions. In practical hands on assignments you will learn techniques and tools that can be immediately implemented in your own research, such as thinking about the smallest effect size you are interested in, justifying your sample size, evaluate findings in the literature while keeping publication bias into account, performing a meta-analysis, and making your analyses computationally reproducible. 
+<div style="text-align: justify;">
+  <ul>
+  <li><a href="https://www.coursera.org/learn/improving-statistical-questions"> Improving your statistical questions (MOOC on Coursera)</a>: This course aims to help you to ask better statistical questions when performing empirical research. We will discuss how to design informative studies, both when your predictions are correct, as when your predictions are wrong. We will question norms, and reflect on how we can improve research practices to ask more interesting questions. In practical hands on assignments you will learn techniques and tools that can be immediately implemented in your own research, such as thinking about the smallest effect size you are interested in, justifying your sample size, evaluate findings in the literature while keeping publication bias into account, performing a meta-analysis, and making your analyses computationally reproducible. </li></ul></div>
 
   **Responsible teachers**: Dr. Daniël Lakens 
