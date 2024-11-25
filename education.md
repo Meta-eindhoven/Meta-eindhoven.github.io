@@ -19,7 +19,7 @@ layout: page
   <ul>
     <li><strong>0HM350 – Meta-science</strong>: In this Master’s course, we use the scientific method to examine science itself. How can we improve the way we do research so that we efficiently generate reliable knowledge? Where can technical solutions support the research process and make it more transparent? How can psychological processes such as confirmation bias distort research results, and how can we prevent this? In this course you will learn about research into research: How does science work, and how could science work?</li></ul></div>
   
-    **Responsible teachers**: Dr. Daniël Lakens, Dr. Krist Vaesen
+   **Responsible teachers**: Dr. Daniël Lakens, Dr. Krist Vaesen
 
 -  **0FC06 – Philosophy of Science and Technology**: Science and technology are amazing phenomena, which have (had) an enormous impact on our lives. But, what exactly is so special about them? In this course, we analyze the various answers philosophers of science and technology have proposed. In Module 1, we discuss general issues related to reasoning in science and technology. Module 2 concerns the question of whether there is progress in science and technology. Finally, in Module 3, we read and discuss a couple of primary texts in the philosophy of science and technology. The texts are critical in nature: they challenge widely cherished qualities of science and technology, e.g., their supposed rationality, objectivity, and promotion of human welfare.
   
