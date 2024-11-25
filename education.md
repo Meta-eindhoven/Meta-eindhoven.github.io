@@ -8,6 +8,8 @@ layout: page
   
    **Responsible teachers**: Dr. Krist Vaesen, Dr. Vlasta Sikimić, Dr. Carlos Zednik
 
+  <br>
+  
 *Master’s courses* 
 
 -  **0HM350 – Meta-science**: In this Master’s course, we use the scientific method to examine science itself. How can we improve the way we do research so that we efficiently generate reliable knowledge? Where can technical solutions support the research process and make it more transparent? How can psychological processes such as confirmation bias distort research results, and how can we prevent this? In this course you will learn about research into research: How does science work, and how could science work?
@@ -18,7 +20,19 @@ layout: page
   
     **Responsible teachers**: Dr. Krist Vaesen
 
+<br>
 
 *Graduate courses* 
 
 - [The Paul Meehl Graduate School](https://paulmeehlschool.github.io/): The Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focused on improving the quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer workshops on a variety of metascientific topics that provide PhD students with the opportunity to enhance their skills and engage in meaningful discussions with fellow metascientists. In the Paul Meehl Graduate School we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation. 
+
+<br>
+*Courses for broad audiences*
+
+- [Improving your statistical inferences (MOOC on Coursera)](https://www.coursera.org/learn/statistical-inferences): This course aims to help you to draw better statistical inferences from empirical research. First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, Bayes Factors, and likelihood ratios, and how these statistics answer different questions you might be interested in. Then, you will learn how to design experiments where the false positive rate is controlled, and how to decide upon the sample size for your study, for example in order to achieve high statistical power. Subsequently, you will learn how to interpret evidence in the scientific literature given widespread publication bias, for example by learning about p-curve analysis. Finally, we will talk about how to do philosophy of science, theory construction, and cumulative science, including how to perform replication studies, why and how to pre-register your experiment, and how to share your results following Open Science principles. 
+
+  **Responsible teachers**: Dr. Daniël Lakens 
+
+- [Improving your statistical questions (MOOC on Coursera)](https://www.coursera.org/learn/improving-statistical-questions): This course aims to help you to ask better statistical questions when performing empirical research. We will discuss how to design informative studies, both when your predictions are correct, as when your predictions are wrong. We will question norms, and reflect on how we can improve research practices to ask more interesting questions. In practical hands on assignments you will learn techniques and tools that can be immediately implemented in your own research, such as thinking about the smallest effect size you are interested in, justifying your sample size, evaluate findings in the literature while keeping publication bias into account, performing a meta-analysis, and making your analyses computationally reproducible. 
+
+  **Responsible teachers**: Dr. Daniël Lakens 
