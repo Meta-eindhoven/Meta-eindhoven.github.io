@@ -21,15 +21,19 @@ layout: page
   
    **Responsible teachers**: Dr. Daniël Lakens, Dr. Krist Vaesen
 
--  **0FC06 – Philosophy of Science and Technology**: Science and technology are amazing phenomena, which have (had) an enormous impact on our lives. But, what exactly is so special about them? In this course, we analyze the various answers philosophers of science and technology have proposed. In Module 1, we discuss general issues related to reasoning in science and technology. Module 2 concerns the question of whether there is progress in science and technology. Finally, in Module 3, we read and discuss a couple of primary texts in the philosophy of science and technology. The texts are critical in nature: they challenge widely cherished qualities of science and technology, e.g., their supposed rationality, objectivity, and promotion of human welfare.
+<div style="text-align: justify;">
+  <ul>
+  <li><strong>0FC06 – Philosophy of Science and Technology</strong>: Science and technology are amazing phenomena, which have (had) an enormous impact on our lives. But, what exactly is so special about them? In this course, we analyze the various answers philosophers of science and technology have proposed. In Module 1, we discuss general issues related to reasoning in science and technology. Module 2 concerns the question of whether there is progress in science and technology. Finally, in Module 3, we read and discuss a couple of primary texts in the philosophy of science and technology. The texts are critical in nature: they challenge widely cherished qualities of science and technology, e.g., their supposed rationality, objectivity, and promotion of human welfare.</li></ul></div>
   
     **Responsible teachers**: Dr. Krist Vaesen
 
 <br>
 
 *Graduate courses* 
-
-- [The Paul Meehl Graduate School](https://paulmeehlschool.github.io/): The Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focused on improving the quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer workshops on a variety of metascientific topics that provide PhD students with the opportunity to enhance their skills and engage in meaningful discussions with fellow metascientists. In the Paul Meehl Graduate School we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation. 
+<a href="education" title="Education">education</a>
+<div style="text-align: justify;">
+  <ul>
+  <li><a href="https://paulmeehlschool.github.io/"> The Paul Meehl Graduate School</a>: The Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focused on improving the quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer workshops on a variety of metascientific topics that provide PhD students with the opportunity to enhance their skills and engage in meaningful discussions with fellow metascientists. In the Paul Meehl Graduate School we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation. </li></ul></div>
 
 <br>
 *Courses for broad audiences*
