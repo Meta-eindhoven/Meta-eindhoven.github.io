@@ -187,8 +187,8 @@ img {
 .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo {
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0.1125rem;
+  padding-bottom: 0.1125rem;
 }
 
 .navbar-custom .navbar-brand-logo img {
