@@ -55,9 +55,9 @@ title-img: "/assets/img/metaecol.jpg"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 About:
-   "We are center of meta-science"
-#social-network-links:
-  #email: "someone@example.com"
+   "Center for Metascience at TU/e"
+social-network-links:
+  email: "metae@tue.com"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
  # github: daattali
