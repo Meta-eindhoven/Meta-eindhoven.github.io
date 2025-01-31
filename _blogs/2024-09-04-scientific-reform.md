@@ -4,7 +4,7 @@ title: Why I don't expect to be convinced by evidence that scientific reform is 
 author: Daniel Lakens
 ---
 
-Since more or less a decade there has been sufficient momentum in science to not just complain about things scientists do wrong, but to actually do something about it. When social psychologists declared a replication crisis in the 60's and 70's, nothing much changed [(Lakens, 2023)](https://psyarxiv.com/dtvs7/) . They also complained about bad methodology, flexibility in the data analysis, a lack of generalizability and applicability, but no concrete actions to improve things emerged from this crisis.
+Since more or less a decade there has been sufficient momentum in science to not just complain about things scientists do wrong, but to actually do something about it. When social psychologists declared a replication crisis in the 60's and 70's, nothing much changed ([Lakens, 2023](https://psyarxiv.com/dtvs7/)) . They also complained about bad methodology, flexibility in the data analysis, a lack of generalizability and applicability, but no concrete actions to improve things emerged from this crisis.
 
  
 
