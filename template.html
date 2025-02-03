@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
     <style>
-        body { font-family: Arial, sans-serif; }
+        body { font-family: Calibri, sans-serif; }
         .year-section { margin-bottom: 2em; }
         .publication { margin-bottom: 0.5em; }
         h2 { color: #333; }
@@ -21,7 +21,7 @@
         <ul>
             {% for pub in publications %}
             <li class="publication">
-                <strong>{{ pub['title'] }}</strong> by {{ pub['author'] }}. <em>{{ pub['journal'] }}</em> ({{ pub['year'] }}).
+                <strong>{{ pub['title'] }}</strong> by {{ pub['author'] }}. <em>{{ pub['journal'] }}</em> ({{ pub['year'] }}</em> ({{ pub['URL'] }}).
             </li>
             {% endfor %}
         </ul>
