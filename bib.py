@@ -1,70 +1,117 @@
 import bibtexparser
-from jinja2 import Environment, FileSystemLoader
 from collections import defaultdict
-from pylatexenc.latex2text import LatexNodes2Text
+import re
+
 
 # Define the list of names to bold
-names_to_bold = {"Wybo Houkes", "Andrea Kis", "Daniël Lakens", "Sajedeh Rasti", "Cristian Mesquida", "Vlasta Sikimić", "Krist Vaesen"}  # Add the names you want to bold here
+BOLD_AUTHORS = ["Wybo Houkes", "Andrea Kis", "Daniël Lakens", "Sajedeh Rasti", "Cristian Mesquida", "Vlasta Sikimić", "Krist Vaesen"]  # Add the names you want to bold here
 
 
-# Load the .bib file
-def load_bib_file(filename):
-    with open(filename, encoding="utf-8") as bibtex_file:
+
+
+def fix_latex_encoding(text):
+    """Manually replace common LaTeX accents."""
+    replacements = {
+        r"{\\c{c}}": "ç",
+        r"{\\'e}": "é",
+        r"{\\`e}": "è",
+        r"{\\o}": "ø",
+        r"{\\\"u}": "ü",
+        r"{\\~n}": "ñ",
+        r"{\\'a}": "á",
+        r"{\\'i}": "í",
+        r"{\\'o}": "ó",
+        r"{\\'u}": "ú"
+    }
+    for latex, utf in replacements.items():
+        text = text.replace(latex, utf)
+    return text
+
+def format_authors(author_string):
+    """Fix LaTeX encoded names and bold certain authors."""
+    authors = author_string.split(" and ")
+    formatted_authors = [
+        f"<strong>{fix_latex_encoding(author)}</strong>" if author in BOLD_AUTHORS 
+        else fix_latex_encoding(author)
+        for author in authors
+    ]
+    return ", ".join(formatted_authors)
+
+
+def parse_bib_file(bib_file):
+    """Parse the .bib file and return a dictionary grouped by year."""
+    with open(bib_file, encoding="utf-8") as bibtex_file:
         bib_database = bibtexparser.load(bibtex_file)
-    return bib_database.entries
 
-# Convert LaTeX to Unicode
-def convert_latex_to_unicode(text):
-    return LatexNodes2Text().latex_to_text(text)
+    publications = defaultdict(list)
 
-# Bold specific names in the author field
-def bold_authors(authors):
-    author_list = [name.strip() for name in authors.split(" and ")]
-    bolded_authors = []
-    for author in author_list:
-        if author in names_to_bold:
-            bolded_authors.append(f"<b>{author}</b>")
-        else:
-            bolded_authors.append(author)
-    return ", ".join(bolded_authors)
+    for entry in bib_database.entries:
+        year = entry.get("year", "Unknown")
+        title = entry.get("title", "No Title")
+        author = entry.get("author", "Unknown Author")
+        journal = entry.get("journal", "Unknown Journal")
+        url = entry.get("url", "#")
 
-# Process a publication entry
-def process_publication(pub):
-    pub["author"] = convert_latex_to_unicode(pub.get("author", "Unknown Author"))
-    pub["title"] = convert_latex_to_unicode(pub.get("title", "Untitled"))
-    pub["author"] = bold_authors(pub["author"])
-    return pub
+        formatted_authors = format_authors(author)
+        clickable_url = f'<a href="{url}" target="_blank">{url}</a>'
 
-# Organize publications by year
-def sort_publications_by_year(publications):
-    sorted_publications = defaultdict(list)
-    for pub in publications:
-        pub = process_publication(pub)
-        year = pub.get("year")
-        if year:
-            sorted_publications[year].append(pub)
-    return dict(sorted(sorted_publications.items(), reverse=True))
+        publications[year].append({
+            "title": title,
+            "author": formatted_authors,
+            "journal": journal,
+            "year": year,
+            "URL": clickable_url,
+        })
 
-# Render HTML from template
-def render_html(sorted_publications, template_file, output_file):
-    env = Environment(loader=FileSystemLoader('.'))
-    template = env.get_template(template_file)
-    rendered_html = template.render(sorted_publications=sorted_publications)
-    manual_content = "\n --- \n layout: page\n --- \n\n"
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(manual_content)
-        f.write(rendered_html)
+    return dict(sorted(publications.items(), reverse=True))
 
-# Main function
+def generate_html(publications):
+    """Generate an HTML page for publications."""
+    if not publications:
+        return "<html><body><h1>No Publications Found</h1></body></html>"
+
+    html_template = """<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Publications</title>
+        <style>
+            body { font-family: Calibri, sans-serif; }
+            .year-section { margin-bottom: 2em; }
+            .publication { margin-bottom: 0.5em; }
+            h2 { color: #333; }
+        </style>
+    </head>
+    <body>
+        <h1>Publications</h1>
+        {content}
+    </body>
+    </html>"""
+
+    content = ""
+    for year, pubs in publications.items():
+        content += f'<div class="year-section">\n<h2>{year}</h2>\n<ul>\n'
+        for pub in pubs:
+            content += (f'<li class="publication"><strong>{pub["title"]}</strong> '
+                        f'by {pub["author"]}. <em>{pub["journal"]}</em> '
+                        f'({pub["year"]}). {pub["URL"]}.</li>\n')
+        content += "</ul>\n</div>\n"
+
+    return html_template.replace("{content}", content)
+
+
+def save_html_file(html_content, output_filename="publications.html"):
+    """Save the generated HTML content to a file."""
+    with open(output_filename, "w", encoding="utf-8") as f:
+        f.write(html_content)
+
 if __name__ == "__main__":
-    bib_file = "biblio.bib"  # Replace with your .bib file path
-    template_file = "template.html"
-    output_file = "publications.html"
-
-    # Load and sort publications
-    publications = load_bib_file(bib_file)
-    sorted_publications = sort_publications_by_year(publications)
-
-    # Generate the HTML file
-    render_html(sorted_publications, template_file, output_file)
-    print("HTML file generated as", output_file)
+    bib_file = "biblio.bib"  # Update this with your .bib file path
+    publications = parse_bib_file(bib_file)
+    if not publications:
+      print("Error: No publications were parsed from the .bib file.")
+      exit()
+    html_content = generate_html(publications)
+    save_html_file(html_content)
+    print("HTML file generated: publications.html")
