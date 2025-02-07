@@ -3,20 +3,15 @@ layout: page
 ---
 
 
-  <style>
-    .header-section {
-      background: url('https://images.pexels.com/photos/289738/pexels-photo-289738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center/cover no-repeat;
+<div style="background: url(\"https://images.pexels.com/photos/289738/pexels-photo-289738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2\") center/cover no-repeat;
       padding: 60px 20px;
       text-align: center;
       color: white;
       font-size: 2.5rem;
-      font-weight: bold;
-    }
-  </style>
-
-<div class="header-section">
+      font-weight: bold;">
     Education
 </div>
+
 
 *Bachelor’s courses* 
 
