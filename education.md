@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<head>
+
   <style>
     .header-section {
       background: url('https://images.pexels.com/photos/289738/pexels-photo-289738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center/cover no-repeat;
@@ -13,7 +13,6 @@ layout: page
       font-weight: bold;
     }
   </style>
-</head>
 
 <div class="header-section">
     Education
