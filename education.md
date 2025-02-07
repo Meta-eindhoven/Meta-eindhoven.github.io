@@ -3,12 +3,10 @@ layout: page
 ---
 
 
-<div style="background: url(\"https://images.pexels.com/photos/289738/pexels-photo-289738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2\") center/cover no-repeat;
-      padding: 60px 20px;
-      text-align: center;
+<div style='background: url(\"https://images.pexels.com/photos/289738/pexels-photo-289738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2\") center/cover no-repeat; padding: 60px 20px; text-align: center;
       color: white;
       font-size: 2.5rem;
-      font-weight: bold;">
+      font-weight: bold;'>
     Education
 </div>
 
