@@ -22,7 +22,7 @@ title: META/e
 navbar-links:
   Education: "education"
   Research: 
-    - Publication: "publications"
+    - Publications: "publications"
     - Ongoing Projects: "ongoing"
   Outreach: "outreach"
   Science Policy: "policy"
