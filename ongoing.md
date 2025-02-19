@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Ongoing Projects
 ---
+<div style='background: url("https://images.pexels.com/photos/6550401/pexels-photo-6550401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center/cover no-repeat;
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;'>
+    Ongoing Projects
+</div>
 
-- **Surviving academia**: <br>
+
+
+- [**Surviving academia**](https://research.tue.nl/en/publications/surviving-academia-studies-on-the-sustainability-of-science-and-a?_gl=1*euqtfz*_up*MQ..*_ga*ODE2NDM3MDMwLjE3Mzg5MzY3NjU.*_ga_JN37M497TT*MTczODkzNjc2NS4xLjAuMTczODkzNjc2NS4wLjAuMA..): <br>
   Andrea Kis's dissertation, Surviving Academia: Studies on the Sustainability of Science and Academic Careers, examines how systemic issues in academia - such as unreliable scientific outputs, flawed institutional structures, and researcher well-being - impact the sustainability of academic careers and science. Using mixed methods, she explores how poor research environments contribute to PhD attrition and systemic inefficiencies. The dissertation also develops and validates an Academic Research Values Scale to better understand researchers' motivations and how value alignment impacts career satisfaction and scientific integrity. By integrating sustainability concepts and policy recommendations, the work advocates for systemic reforms aimed at fostering a more supportive, ethical, and sustainable academic ecosystem.
 <br>
 <br>
