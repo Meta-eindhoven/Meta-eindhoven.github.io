@@ -14,7 +14,14 @@
     </style>
 </head>
 <body>
-    <h1>Publications</h1>
+    <div style='background: url("https://images.pexels.com/photos/267582/pexels-photo-267582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center/cover no-repeat;
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;'>
+    Publications
+    </div>
     {% for year, publications in sorted_publications.items() %}
     <div class="year-section">
         <h2>{{ year }}</h2>
