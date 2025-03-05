@@ -18,3 +18,5 @@ layout: page
 
 - In 2024, Vlasta Sikimić hosted the representatives of Serbian National TV and participated in a [documentary](https://www.youtube.com/watch?v=w3CJ2qhUL4Q) they created about TU/e.
 
+- Andrea Kis gave [interviews, invited speeches, and webinars](https://www.andreakis.com/projects) on topics connected to responsible research environments and (socially) sustainable academic career paths. 
+
