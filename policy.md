@@ -25,3 +25,8 @@ layout: page
 <br>
 - **Al in Science Policy**: <br>
   Vlasta Sikimić was invited by NWO to discuss how AI can be used for responsible grant review. She also organized the [talk and discussion](https://www.tue.nl/en/news-and-events/news-overview/20-06-2024-exploring-ai-and-open-science) at TU/e on AI and open science with Jeroen Sondervan, NWO’s programme leader for Open Scholarly Communication.
+
+  <br>
+  <br>
+- **Consulting on Sustainable Research Environments**: <br>
+ Andrea Kis was invited by [various national and international stakeholders](https://www.andreakis.com/projects) to discuss her research on the sustainability of science and academic careers. She collaborated with university decisionmakers to help explore and implement best practices. 
