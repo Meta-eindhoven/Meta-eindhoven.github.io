@@ -14,4 +14,6 @@ layput: page
 
 **Lunch Meetings**
 
-- *Meta/e lunch Meeting with Andrea Kis*  (2025-03-25)  [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU1YTVmYzctNTRjOS00ZmE3LTgwYjItN2U2ZmFhNDEzNjZh%40thread.v2/0?context=%7b%22Tid%22%3a%22cc7df247-60ce-4a0f-9d75-704cf60efc64%22%2c%22Oid%22%3a%22d9954d77-ca06-4511-aba0-738ae2ae2856%22%7d)
+- *Meta/e lunch Meeting with Andrea Kis*  (2025-03-25; 12:00 - 13:00)  [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU1YTVmYzctNTRjOS00ZmE3LTgwYjItN2U2ZmFhNDEzNjZh%40thread.v2/0?context=%7b%22Tid%22%3a%22cc7df247-60ce-4a0f-9d75-704cf60efc64%22%2c%22Oid%22%3a%22d9954d77-ca06-4511-aba0-738ae2ae2856%22%7d)
+
+- *Meta/e lunch Meeting with Olga Iarygina*  (2025-04-08; 12:00 - 13:00)  [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTAyZTNjMmEtZjFkNS00MGY2LWIyMjctZDdhNWEyODZhMWU3%40thread.v2/0?context=%7b%22Tid%22%3a%22cc7df247-60ce-4a0f-9d75-704cf60efc64%22%2c%22Oid%22%3a%22d9954d77-ca06-4511-aba0-738ae2ae2856%22%7d)
