@@ -10,7 +10,8 @@ layout: page
     font-weight: bold;'>
     Science policy
 </div>
-
+<br>
+<br>
 - **Knowledge platform inter- and trans-disciplinary research @ NWO**: <br>
   Daniël Lakens and Krist Vaesen were part of a pilot research project carried out at the Dutch Research Council (NWO). The project was aimed at improving the procedures the council uses to review grant proposals. More specifically, the project examined and tested various changes to these procedures such that they were better geared towards evaluating inter- and trans-disciplinary research. Parts of the results are described in [Schölvinck et al](https://academic.oup.com/rev/article/doi/10.1093/reseval/rvae049/7889019) (2024).
 <br>
@@ -25,8 +26,7 @@ layout: page
 <br>
 - **Al in Science Policy**: <br>
   Vlasta Sikimić was invited by NWO to discuss how AI can be used for responsible grant review. She also organized the [talk and discussion](https://www.tue.nl/en/news-and-events/news-overview/20-06-2024-exploring-ai-and-open-science) at TU/e on AI and open science with Jeroen Sondervan, NWO’s programme leader for Open Scholarly Communication.
-
-  <br>
-  <br>
+<br>
+<br>
 - **Consulting on Sustainable Research Environments**: <br>
  Andrea Kis was invited by [various national and international stakeholders](https://www.andreakis.com/projects) to discuss her research on the sustainability of science and academic careers. She collaborated with university decisionmakers to help explore and implement best practices. 
