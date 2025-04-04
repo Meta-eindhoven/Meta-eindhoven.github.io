@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<div style='background: url("https://images.pexels.com/photos/267582/pexels-photo-267582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center/cover no-repeat;
+<div style='background: url("https://images.pexels.com/photos/1090941/pexels-photo-1090941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") center/cover no-repeat;
     padding: 60px 20px;
     text-align: center;
     color: white;
