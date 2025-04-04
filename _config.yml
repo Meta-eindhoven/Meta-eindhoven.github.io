@@ -21,7 +21,7 @@ title: META/e
 
 navbar-links:
   Education: "education"
-  Research: "research"
+  Research: 
     - Research Themes: "research"
     - Ongoing Projects: "ongoing"
   Outreach: "outreach"
