@@ -63,7 +63,10 @@ Members of META/e have worked on/are working on the following issues relating to
 <li class="publication"><strong>A Framework for Describing the Levels of Scientific Coordination</strong> by <strong>Sajedeh Rasti</strong>, <strong>Krist Vaesen</strong>, <strong>Daniël Lakens</strong>. <em>OSF</em> (2025). <a href="https://osf.io/preprints/psyarxiv/eq269_v1" target="_blank">https://osf.io/preprints/psyarxiv/eq269_v1</a>.</li>
 <li class="publication"><strong>The Need for Scientific Coordination</strong> by <strong>Sajedeh Rasti</strong>, <strong>Krist Vaesen</strong>, <strong>Daniël Lakens</strong>. <em>OSF</em> (2025). <a href="https://osf.io/preprints/psyarxiv/vjcfk_v2" target="_blank">https://osf.io/preprints/psyarxiv/vjcfk_v2</a>.</li>
 <li class="publication"><strong>How qualitative criteria can improve the assessment process of interdisciplinary research proposals</strong> by Anne-Floor Schölvinck, Duygu Uygun-Tunç, <strong>Daniël Lakens</strong>, <strong>Krist Vaesen</strong>,  Laurens K Hessels. <em>Research Evaluation</em> (2024). <a href="https://doi.org/10.1093/reseval/rvae049" target="_blank">https://doi.org/10.1093/reseval/rvae049</a>.</li>
-<li class="publication"><strong>Shifting the level of selection in science</strong> by Leo Tiokhin, Karthik Panchanathan, Paul E Smaldino, <strong>Daniël Lakens</strong>. <em>Perspectives on Psychological Science</em> (2024). <a href="https://doi.org/10.1177/17456916231182568" target="_blank">https://doi.org/10.1177/17456916231182568</a>.</li>
+<li class="publication"><strong>Shifting the level of selection in science</strong> by Leo Tiokhin, Karthik Panchanathan, Paul E Smaldino, <strong>Daniël Lakens</strong>. <em>Perspectives on Psychological Science</em> (2024). <a href="https://doi.org/10.1177/17456916231182568" target="_blank">https://doi.org/10.1177/17456916231182568</a>.
+</li>
+<li class="publication"><strong>Epistemic Inclusion as the Key to Benefiting from Cognitive Diversity in Science</strong> by <strong>Vlasta Sikimić</strong>. <em>Social Epistemology</em> (2023). <a href="https://doi.org/10.1080/02691728.2023.2258831" target="_blank">https://doi.org/10.1080/02691728.2023.2258831</a>.</li>
+
 
 </ul>
 
@@ -87,6 +90,7 @@ Members of META/e have worked on/are working on the following issues relating to
 *Publications*:
 
 <ul>
+<li class="publication"><strong>Global justice and the use of AI in education: ethical and epistemic aspects</strong> by Aleksandra Vučković, <strong>Vlasta Sikimić</strong>. <em>AI & Society</em> (2024). <a href="https://doi.org/10.1007/s13194-022-00478-6" target="_blank">https://doi.org/10.1007/s00146-024-02076-x</a>.</li>
 <li class="publication"><strong>Machine learning in scientific grant review: algorithmically predicting project efficiency in high energy physics</strong> by <strong>Vlasta Sikimić</strong>, Sandro Radovanović. <em>European Journal for Philosophy of Science</em> (2022). <a href="https://doi.org/10.1007/s13194-022-00478-6" target="_blank">https://doi.org/10.1007/s13194-022-00478-6</a>.</li>
 
 </ul>
@@ -112,7 +116,6 @@ Members of META/e have worked on/are working on the following assorted meta-scie
 <ul>
 <li class="publication"><strong>Academic research values: Conceptualization and initial steps of scale development</strong> by <strong>Andrea Kis</strong>, Elena Mas Tur, <strong>Krist Vaesen</strong>, <strong>Wybo Houkes</strong>, <strong>Daniël Lakens</strong>. <em>Plos one</em> (2025). <a href="https://doi.org/10.1371/journal.pone.0318086" target="_blank">https://doi.org/10.1371/journal.pone.0318086</a>.</li>
 <li class="publication"><strong>Questionable research practices in competitive grant funding: A survey</strong> by Stijn Conix, Steven De Peuter, Andreas De Block, <strong>Krist Vaesen</strong>. <em>Plos one</em> (2023). <a href="https://doi.org/10.1371/journal.pone.0293310" target="_blank">https://doi.org/10.1371/journal.pone.0293310</a>.</li>
-<li class="publication"><strong>Epistemic Inclusion as the Key to Benefiting from Cognitive Diversity in Science</strong> by <strong>Vlasta Sikimić</strong>. <em>Social Epistemology</em> (2023). <a href="https://doi.org/10.1080/02691728.2023.2258831" target="_blank">https://doi.org/10.1080/02691728.2023.2258831</a>.</li>
 <li class="publication"><strong>Leaving academia: PhD attrition and unhealthy research environments</strong> by <strong>Andrea Kis</strong>, Elena Mas Tur, <strong>Daniël Lakens</strong>, <strong>Krist Vaesen</strong>, <strong>Wybo Houkes</strong>. <em>Plos one</em> (2022). <a href="https://doi.org/10.1371/journal.pone.0274976" target="_blank">https://doi.org/10.1371/journal.pone.0274976</a>.</li>
 <li class="publication"><strong>How to Improve Research Funding in Academia? Lessons From the COVID-19 Crisis</strong> by <strong>Vlasta Sikimić</strong>. <em>Frontiers in Research Metrics and Analytics</em> (2022). <a href="https://doi.org/10.3389/frma.2022.777781" target="_blank">https://doi.org/10.3389/frma.2022.777781</a>.</li>
 <li class="publication"><strong>Grant writing and grant peer review as questionable research practices</strong> by Stijn Conix, Andreas De Block, <strong>Krist Vaesen</strong>. <em>F1000Research</em> (2021). <a href="https://doi.org/10.12688/f1000research.73893.2" target="_blank">https://doi.org/10.12688/f1000research.73893.2</a>.</li>
