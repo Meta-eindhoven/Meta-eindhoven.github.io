@@ -54,6 +54,7 @@ Members of META/e have worked on/are working on the following issues relating to
 - Funding agencies’ procedures for evaluating inter-disciplinary and trans-disciplinary grant proposals
 - The nature, benefits and promotion of scientific coordination
 - Diversity and inclusion
+- Impact of competition on information sharing and idea selection in science
 
 <br>
 
@@ -108,6 +109,7 @@ Members of META/e have worked on/are working on the following assorted meta-scie
 - Science funding
 - Research integrity
 - Meaningfully interpreting experimental results
+- Costs of restricted access to publicly funded science
 
 <br>
 
