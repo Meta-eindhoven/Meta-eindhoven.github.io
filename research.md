@@ -25,13 +25,17 @@ Members of META/e have worked/are working on the following issues relating to Op
 - Factors that hinder replicability of scientific studies such as publication bias and low statistical power
 - Factors that hinder reproducibility of scientific studies such as lack of adherence to reporting guidelines, lack of data and code sharing and lack of adherence to best practices for data and code sharing
 - Development of tool in R to help researchers prevent errors, promote best practices and extract data from published papers to conduct meta-analyses and meta-scientific projects
+- Open research software
 
 <br>
 
 *Publications*:
 
 <ul> 
+<li class="publication"><strong>Towards a community hub for open-source room acoustics software</strong> by Silvin Willemsen, Hassan Teymoori, Ilaria Fichera, Huiqing Wang, Alexander Nolte, Alexander Serebrenik, <strong>Maarten CJ Hornikx</strong>. <em>In Forum Acusticum 2025: 11th Convention of the European Acoustics Association.</em> (2025). <a href="https://www.doi.org/10.61782/fa.2025.0900" target="_blank">https://www.doi.org/10.61782/fa.2025.0900</a>.</li>
+<li class="publication"><strong>Unlocking the potential of open research software in acoustics: Lessons learned from the Nantes workshop</strong> by <strong>Maarten CJ Hornikx</strong>, Huiqing Wang, Ilaria Fichera, Silvin Willemsen, Lavinia Paganini. <em>In 11th EAA Annual European Conference on Acoustics and Noise Control Engineering, Forum Acusticum/Euronoise.</em> (2025). <a href="https://www.doi.org/10.61782/fa.2025.0938" target="_blank">https://www.doi.org/10.61782/fa.2025.0938</a>.</li>
 <li class="publication"><strong>An Inception-Cohort Study Quantifying How Many Registered Studies Are Publicly Shared</strong> by Eline NF Ensinck, <strong>Daniël Lakens</strong>. <em>Advances in Methods and Practices in Psychological Science</em> (2025). <a href="https://doi.org/10.1177/25152459241296031" target="_blank">https://doi.org/10.1177/25152459241296031</a>.</li>
+<li class="publication"><strong>Exploring the current landscape of open research software in room acoustics</strong> by <strong>Maarten CJ Hornikx</strong>, Huiqing Wang, Ilaria Fichera, Lavinia Paganini, Alexander Nolte, Alexander Serebrenik. <em>In Internoise 2024 (pp. 5875-5884). Institute of Noise Control Engineering of the USA.</em> (2024). <a href="https://doi.org/10.3397/IN_2024_3656" target="_blank">https://doi.org/10.3397/IN_2024_3656</a>.</li>
 <li class="publication"><strong>The benefits of preregistration and Registered Reports</strong> by <strong>Daniël Lakens</strong>, <strong>Cristian Mesquida</strong>, <strong>Sajedeh Rasti</strong>, Massimiliano Ditroilo. <em>Evidence-Based Toxicology</em> (2024). <a href="https://doi.org/10.1080/2833373X.2024.2376046" target="_blank">https://doi.org/10.1080/2833373X.2024.2376046</a>.</li>
 <li class="publication"><strong>Exploring a formal approach to selecting studies for replication: A feasibility study in social neuroscience</strong> by Peder M Isager, <strong>Daniël Lakens</strong>, Thed van Leeuwen, Anna E van't Veer. <em>Cortex</em> (2024). <a href="https://doi.org/10.1016/j.cortex.2023.10.012" target="_blank">https://doi.org/10.1016/j.cortex.2023.10.012</a>.</li>
 <li class="publication"><strong>When and How to Deviate from a Preregistration</strong> by <strong>Daniël Lakens</strong>. <em>Collabra: Psychology</em> (2024). <a href="https://doi.org/10.1525/collabra.117094" target="_blank">https://doi.org/10.1525/collabra.117094</a>.</li>
