@@ -16,6 +16,8 @@ layput: page
 
 ![AI in Peer Review](/assets/img/AI%20in%20peer%20review.png "AI in Peer Review")
 
+<img src="/assets/img/AI%20in%20peer%20review.png" width="50%">
+
 **Eindhoven University of Technology,  5 June 2026**
 
 Maximum attendees: 100  
