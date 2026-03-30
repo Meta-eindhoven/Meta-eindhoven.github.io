@@ -14,6 +14,8 @@ layput: page
 
 ## META/e Conference on Transparency, Technology and AI in Peer Review
 
+![AI in Peer Review](/assets/img/AI%20in%20peer%20review.png "AI in Peer Review")
+
 **Eindhoven University of Technology,  5 June 2026**
 
 Maximum attendees: 100
@@ -26,20 +28,17 @@ Registration is on first-come basis.
 
 ## Conference Program
 
-**09:30 – 10:00 &#124; Registration & Welcome Coffee (filmzaal)**  
+**09:30 – 10:00 &#124; Registration & Welcome Coffee (filmzaal, De Zwarte Doos building)**  
 Arrival, name badges, informal networking
 
-**10:00 – 10:15 &#124; Opening Remarks (filmzaal)**
-
+**10:00 – 10:15 &#124; Opening Remarks**  
 **Speaker**: Vlasta Sikimić  
 Welcome and introduction to the workshop. Overview of the motivation, goals, and structure of the day.
 
-**10:15 – 11:15 &#124; Motivations**
-
+**10:15 – 11:15 &#124; Motivations**  
 Two talks introducing key motivations for discussing AI in peer review.  
 **Cristian Mesquida** — Metacheck: Improving Research Quality Before Submission  
-**Dvija Mehta** — Epistemic Responsibility in Science and the Role of Disclosure Policies
-
+**Dvija Mehta** — Epistemic Responsibility in Science and the Role of Disclosure Policies  
 (Approx. 20 min talk + 10 min q&a discussion each)
 
 **11:15 – 11:45 &#124; Coffee Break**
@@ -51,16 +50,14 @@ Two talks introducing key motivations for discussing AI in peer review.
 **12:45 – 13:45 &#124; Lunch Break**  
 On-site lunch and informal networking.
 
-**13:45 – 14:45 &#124; Panel Discussion**
-
+**13:45 – 14:45 &#124; Panel Discussion**  
 **The Multi-Stakeholder Future of Peer Review**
 
 Panelists:  
 Puck Windschult, NWO  
 [Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
 [Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
-[Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam
-
+[Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam  
 Topics include governance of AI in peer review, incentives for research integrity, and the roles of publishers, funders, and researchers.
 
 **14:45 – 15:15 &#124; Coffee Break**
@@ -73,7 +70,7 @@ Facilitator: **Finn Luebber**, University of Luebeck
 **Workshop 2 — Scientific Monoculture and Bias Amplification**  
 Facilitator: Tbd  
 **Workshop 3 — Verification Strategies for AI-Accelerated Science**  
-Facilitator: Tbd<br>
+Facilitator: Tbd
 Each group will present a short summary of insights.
 
 **17:00 – 17:30 &#124; Final Conclusions**  
