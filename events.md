@@ -18,7 +18,7 @@ layput: page
 
 **Eindhoven University of Technology,  5 June 2026**
 
-Maximum attendees: 100
+Maximum attendees: 100  
 **Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), Cristian Mesquida, [Dvija Mehta](https://www.dvijamehta.com/)
 
 Please Register here: [Conference on Transparency, Technology and AI in Peer Review – Collaboration](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=R_J9zM5gD0qddXBM9g78ZO6FCxTT4TZFqSnpVCwNhfJURDFYN01CSVJINUY2QjBBV1lKUlZQTzhTNS4u&Token=d564556898af4aaf9520a311760a87e4)
