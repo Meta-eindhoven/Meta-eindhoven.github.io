@@ -12,13 +12,12 @@ layput: page
 </div>
 
 
-## META/e Conference on Transparency, Technology and AI in Peer Review
+## META/e Conference on Transparency, Technology and AI in Peer Review  
+**Eindhoven University of Technology,  5 June 2026**
 
 <div style="text-align: center;">
     <img src="/assets/img/AI%20in%20peer%20review.png" width="50%" alt="Conference banner: AI in peer review">
 </div>
-
-**Eindhoven University of Technology,  5 June 2026**
 
 Maximum attendees: 100  
 **Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), Cristian Mesquida, [Dvija Mehta](https://www.dvijamehta.com/)
