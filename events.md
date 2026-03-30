@@ -54,11 +54,12 @@ On-site lunch and informal networking.
 **13:45 – 14:45 &#124; Panel Discussion**  
 **The Multi-Stakeholder Future of Peer Review**
 
-Panelists:  
+**Panelists**:  
 Puck Windschult, NWO  
 [Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
 [Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
-[Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam  
+[Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam
+
 Topics include governance of AI in peer review, incentives for research integrity, and the roles of publishers, funders, and researchers.
 
 **14:45 – 15:15 &#124; Coffee Break**
