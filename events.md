@@ -26,49 +26,39 @@ Registration is on first-come basis.
 
 ## Conference Program
 
-**09:30 – 10:00 | Registration & Welcome Coffee (filmzaal)**
-
+**09:30 – 10:00 | Registration & Welcome Coffee (filmzaal)**  
 Arrival, name badges, informal networking
 
 **10:00 – 10:15 | Opening Remarks (filmzaal)**
 
-**Speaker**: Vlasta Sikimić
-
+**Speaker**: Vlasta Sikimić  
 Welcome and introduction to the workshop. Overview of the motivation, goals, and structure of the day.
 
 **10:15 – 11:15 | Motivations**
 
-Two talks introducing key motivations for discussing AI in peer review.
-
-**Cristian Mesquida** — Metacheck: Improving Research Quality Before Submission
-
+Two talks introducing key motivations for discussing AI in peer review.  
+**Cristian Mesquida** — Metacheck: Improving Research Quality Before Submission  
 **Dvija Mehta** — Epistemic Responsibility in Science and the Role of Disclosure Policies
 
 (Approx. 20 min talk + 10 min q&a discussion each)
 
 **11:15 – 11:45 | Coffee Break**
 
-**11:45 – 12:45 | Keynote**
-
+**11:45 – 12:45 | Keynote**  
 **Speaker**: [Jamie Cummins](https://github.com/JamieCummins), University of Bern Format: 40 min talk + 20 min Q&A
 
 
-**12:45 – 13:45 | Lunch Break**
-
+**12:45 – 13:45 | Lunch Break**  
 On-site lunch and informal networking.
 
 **13:45 – 14:45 | Panel Discussion**
 
 **The Multi-Stakeholder Future of Peer Review**
 
-Panelists:
-
-Puck Windschult, NWO
-
-[Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER
-
-[Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht
-
+Panelists:  
+Puck Windschult, NWO  
+[Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
+[Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
 [Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam
 
 Topics include governance of AI in peer review, incentives for research integrity, and the roles of publishers, funders, and researchers.
@@ -77,22 +67,14 @@ Topics include governance of AI in peer review, incentives for research integrit
 
 **15:15 – 17:00 | Interactive Workshops**
 
-Participants will be divided into small groups in two workshop sessions.
-
+Participants will be divided into small groups in two workshop sessions.  
 **Workshop 1 — Automated Review vs. Lottery**
-
-Facilitator: **Finn Luebber**, University of Luebeck
-
-**Workshop 2 — Scientific Monoculture and Bias Amplification**
-
-Facilitator: Tbd
-
-**Workshop 3 — Verification Strategies for AI-Accelerated Science**
-
-Facilitator: Tbd
-
+Facilitator: **Finn Luebber**, University of Luebeck  
+**Workshop 2 — Scientific Monoculture and Bias Amplification**  
+Facilitator: Tbd  
+**Workshop 3 — Verification Strategies for AI-Accelerated Science**  
+Facilitator: Tbd<br>
 Each group will present a short summary of insights.
 
-**17:00 – 17:30 | Final Conclusions**
-
+**17:00 – 17:30 | Final Conclusions**  
 Summary of key insights from the talks, panel discussion, and workshops.
