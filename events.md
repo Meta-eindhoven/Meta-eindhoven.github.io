@@ -22,7 +22,7 @@ layput: page
 Maximum attendees: 100  
 **Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), Cristian Mesquida, [Dvija Mehta](https://www.dvijamehta.com/)
 
-Please Register here: [Conference on Transparency, Technology and AI in Peer Review – Collaboration](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=R_J9zM5gD0qddXBM9g78ZO6FCxTT4TZFqSnpVCwNhfJURDFYN01CSVJINUY2QjBBV1lKUlZQTzhTNS4u&Token=d564556898af4aaf9520a311760a87e4)
+Please Register here: [Conference on Transparency, Technology and AI in Peer Review – Collaboration](https://forms.office.com/e/JA9SqHmfVU)
 
 Registration is on first-come basis.
 
@@ -66,7 +66,7 @@ Topics include governance of AI in peer review, incentives for research integrit
 
 **15:15 – 17:00 &#124; Interactive Workshops**
 
-Participants will be divided into small groups in two workshop sessions.  
+Participants can attend up to two workshops; however, they may be reassigned to a different session if capacity limits are reached.  
 **Workshop 1 — Automated Review vs. Lottery**  
 Facilitator: **Finn Luebber**, University of Luebeck  
 **Workshop 2 — Scientific Monoculture and Bias Amplification**  
