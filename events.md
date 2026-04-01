@@ -72,7 +72,7 @@ Facilitator: **Finn Luebber**, University of Luebeck
 **Workshop 2 — Scientific Monoculture and Bias Amplification**  
 Facilitator: Tbd  
 **Workshop 3 — Verification Strategies for AI-Accelerated Science**  
-Facilitator: Tbd
+Facilitator: Tbd  
 Each group will present a short summary of insights.
 
 **17:00 – 17:30 &#124; Final Conclusions**  
