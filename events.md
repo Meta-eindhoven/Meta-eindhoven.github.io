@@ -70,9 +70,9 @@ Participants will be divided into small groups in two workshop sessions.
 **Workshop 1 — Automated Review vs. Lottery**  
 Facilitator: **Finn Luebber**, University of Luebeck  
 **Workshop 2 — Scientific Monoculture and Bias Amplification**  
-Facilitator: Krist Vaesen  
+Facilitator: **Krist Vaesen**, Eindhoven University of Technology  
 **Workshop 3 — Verification Strategies for AI-Accelerated Science**  
-Facilitator: Yara Daamen  
+Facilitator: **Yara Daamen**, Eindhoven University of Technology  
 **Workshop 4 — FAIR Validation**  
 Facilitator: TBD  
 Each group will present a short summary of insights.
