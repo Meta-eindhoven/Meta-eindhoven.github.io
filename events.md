@@ -1,7 +1,14 @@
 ---
 layput: page
 ---
-META/e Conference
+<div style='background: src="/assets/img/AI%20in%20peer%20review.png" width="70%" center/cover no-repeat;
+    padding: 60px 20px;
+    text-align: center;
+    color: gray;
+    font-size: 2.5rem;
+    font-weight: bold;'>
+    META/e Conference
+</div>
 
 ## META/e Conference on Transparency, Technology and AI in Peer Review  
 **Eindhoven University of Technology,  5 June 2026**
