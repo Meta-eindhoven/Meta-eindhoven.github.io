@@ -1,10 +1,10 @@
 ---
 layput: page
 ---
-<div style='background: src="/assets/img/AI%20in%20peer%20review.png" width="70%" center/cover no-repeat;
+<div style='background: url("https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center/cover no-repeat;
     padding: 60px 20px;
     text-align: center;
-    color: gray;
+    color: white;
     font-size: 2.5rem;
     font-weight: bold;'>
     META/e Conference
