@@ -7,7 +7,7 @@ layput: page
     color: white;
     font-size: 2.5rem;
     font-weight: bold;'>
-    META/e Conference
+    Conference
 </div>
 
 ## META/e Conference on Transparency, Technology and AI in Peer Review  
@@ -79,3 +79,5 @@ Each group will present a short summary of insights.
 
 **17:00 – 17:30 &#124; Final Conclusions**  
 Summary of key insights from the talks, panel discussion, and workshops.
+
+This event is sponsored by the Eindhoven University of Technology (TU/e) Center of Humans & Technology. For more information about the center and its initiatives, please visit: [Humans and Technology](https://www.tue.nl/en/research/research-areas/humans-and-technology).
