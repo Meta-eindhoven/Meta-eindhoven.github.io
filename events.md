@@ -1,6 +1,8 @@
 ---
 layput: page
 ---
+META/e Conference
+
 ## META/e Conference on Transparency, Technology and AI in Peer Review  
 **Eindhoven University of Technology,  5 June 2026**
 
