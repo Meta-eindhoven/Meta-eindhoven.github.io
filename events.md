@@ -1,23 +1,14 @@
 ---
 layput: page
 ---
-
-<div style='background: url("https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center/cover no-repeat;
-    padding: 60px 20px;
-    text-align: center;
-    color: white;
-    font-size: 2.5rem;
-    font-weight: bold;'>
-    Events
-</div>
-
-
 ## META/e Conference on Transparency, Technology and AI in Peer Review  
 **Eindhoven University of Technology,  5 June 2026**
 
 <div style="text-align: center;">
     <img src="/assets/img/AI%20in%20peer%20review.png" width="50%" alt="Conference banner: AI in peer review">
 </div>
+
+This conference focuses on the use of technology and AI-based tools in peer review, grant evaluation, and research assessment. Taking place on **June 5**, it addresses how these technologies are being introduced into review processes, what problems they are meant to solve, and what new risks they may create for research quality, fairness, and accountability. The event aims to critically examining practical experiences, emerging norms, and governance questions around technology-assisted review. Through exchange between experts from research, funding, publishing, policy, and science journalism, the conference seeks to clarify where technology can genuinely support evaluation processes and where clear boundaries, oversight, or restraint are needed to safeguard trust and integrity in science.
 
 Maximum attendees: 100  
 **Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), Cristian Mesquida, [Dvija Mehta](https://www.dvijamehta.com/)
@@ -74,7 +65,7 @@ Facilitator: **Krist Vaesen**, Eindhoven University of Technology
 **Workshop 3 — Verification Strategies for AI-Accelerated Science**  
 Facilitator: **Yara Daamen**, Eindhoven University of Technology  
 **Workshop 4 — FAIR Validation**  
-Facilitator: TBD  
+Facilitator: **Michèle Nuijten**, Tilburg University
 Each group will present a short summary of insights.
 
 **17:00 – 17:30 &#124; Final Conclusions**  
