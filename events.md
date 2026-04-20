@@ -59,6 +59,7 @@ Puck Windschult, NWO
 [Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
 [Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
 [Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam
+Marieke van Duin, Programme officer at NWO
 
 Topics include governance of AI in peer review, incentives for research integrity, and the roles of publishers, funders, and researchers.
 
