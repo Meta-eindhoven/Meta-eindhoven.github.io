@@ -24,8 +24,7 @@ Later in the spring, Andrea Kis and [**Julma Braat**](https://www.linkedin.com/i
 
 Their work is part of a co‑funded initiative supported by **Open Science NL**, with TU/e as the embedding institution, and focuses on strengthening academic assessment in line with Recognition & Rewards principles. Universities rely on assessment for high‑stakes decisions on hiring, promotion, and recognition, yet assessment practices are often under‑studied, unevenly implemented, and insufficiently supported.
 
-The project integrates three core pillars:
-
+The project integrates three core pillars:  
 1. A review of good academic assessment practices,
 2. Evidence‑informed interventions and practical tools for assessment committees,
 3. The development of a sustained internal and external community of practice.
