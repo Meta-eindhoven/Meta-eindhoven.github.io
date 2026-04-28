@@ -4,7 +4,7 @@ title: Andrea Kis delivers invited talks on PhD well‑being and responsible aca
 mathjax: true
 ---
 
-Short:  
+Short:  
 Andrea Kis delivers invited talks on PhD well‑being and responsible academic assessment
 In early 2026, META/e member Andrea Kis delivered a series of invited keynote and symposium talks addressing two interconnected themes at the heart of contemporary discussions on research culture: **PhD well‑being** and **responsible academic assessment**.
 
