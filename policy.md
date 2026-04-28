@@ -10,6 +10,7 @@ layout: page
     font-weight: bold;'>
     Science policy
 </div>
+  
 - **Responsible Academic Assessment**: <br>
   Andrea Kis, together with TU/e's institutional academic career policy expert, Julma Braat, led a co‑funded initiative supported by Open Science NL, with TU/e as embedding institution, focused on translating Recognition & Rewards principles into academic assessment practice. The [project](https://www.andreakis.com/projects#h.96pfy9x8jqbm) resulted in policy changes, [research reports](https://zenodo.org/records/19664937), and multiple conference presentations and [invited talks](https://doi.org/10.5281/zenodo.19549740). A key outcome is the setup of a university-wide community and [kick-off event](https://zenodo.org/records/17195384), a [mandatory training](https://zenodo.org/records/18020645) **for assessment committee members**, now being rolled out, which includes an **immersive** [role‑playing game](https://zenodo.org/records/17701753) designed to develop not only conceptual but also emotional understanding of bias, fairness, and responsibility in academic evaluation. The work contributes to fairer, more transparent, and more sustainable research assessment practices.
 <br>
