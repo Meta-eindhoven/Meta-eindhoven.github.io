@@ -10,13 +10,16 @@ layout: page
     font-weight: bold;'>
     Science policy
 </div>
+- **Responsible Academic Assessment**: <br>
+  Andrea Kis, together with TU/e's institutional academic career policy expert, Julma Braat, led a co‑funded initiative supported by Open Science NL, with TU/e as embedding institution, focused on translating Recognition & Rewards principles into academic assessment practice. The [project](https://www.andreakis.com/projects#h.96pfy9x8jqbm) resulted in policy changes, [research reports](https://zenodo.org/records/19664937), and multiple conference presentations and [invited talks](https://doi.org/10.5281/zenodo.19549740). A key outcome is the setup of a university-wide community and [kick-off event](https://zenodo.org/records/17195384), a [mandatory training](https://zenodo.org/records/18020645) **for assessment committee members**, now being rolled out, which includes an **immersive** [role‑playing game](https://zenodo.org/records/17701753) designed to develop not only conceptual but also emotional understanding of bias, fairness, and responsibility in academic evaluation. The work contributes to fairer, more transparent, and more sustainable research assessment practices.
+<br>
 <br>
 - **Knowledge platform inter- and trans-disciplinary research @ NWO**: <br>
   Daniël Lakens and Krist Vaesen were part of a pilot research project carried out at the Dutch Research Council (NWO). The project was aimed at improving the procedures the council uses to review grant proposals. More specifically, the project examined and tested various changes to these procedures such that they were better geared towards evaluating inter- and trans-disciplinary research. Parts of the results are described in [Schölvinck et al](https://academic.oup.com/rev/article/doi/10.1093/reseval/rvae049/7889019) (2024).
 <br>
 <br>
 - **Funding for Replication Studies**: <br>
-  Daniël Lakens proposed to the Dutch science funder NWO to create a dedicated funding scheme for replication studies. NWO started a [funding scheme for replication studies](https://www.nwo.nl/en/single-replication-not-replication) in 2016.  
+  Daniël Lakens proposed to the Dutch science funder NWO to create a dedicated funding scheme for replication studies. NWO started a [funding scheme for replication studies](https://www.nwo.nl/en/single-replication-not-replication) in 2016.
 <br>
 <br>
 - **Centre for Unusual Research**: <br>
