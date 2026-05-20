@@ -55,7 +55,7 @@ On-site lunch and informal networking.
 **The Multi-Stakeholder Future of Peer Review**
 
 **Panelists**:  
-Puck Windschult, NWO  
+Puck Wildschut, NWO  
 [Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
 [Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
 [Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam  
@@ -74,7 +74,7 @@ Facilitator: **Finn Luebber**, University of Luebeck
 Facilitator: **Krist Vaesen**, Eindhoven University of Technology  
 **Workshop 3 — Verification Strategies for AI-Accelerated Science**  
 Facilitator: **Yara Daamen**, Eindhoven University of Technology  
-**Workshop 4 — FAIR Validation**  
+**Workshop 4 — FAIR Validation of Automated Tools**  
 Facilitator: **Michèle Nuijten**, Tilburg University
 Each group will present a short summary of insights.
 
