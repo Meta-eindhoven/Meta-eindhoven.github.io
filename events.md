@@ -40,12 +40,13 @@ Welcome and introduction to the workshop. Overview of the motivation, goals, and
 Two talks introducing key motivations for discussing AI in peer review.  
 **Cristian Mesquida** — Metacheck: Improving Research Quality Before Submission  
 **Dvija Mehta** — Epistemic Responsibility in Science and the Role of Disclosure Policies  
-(Approx. 20 min talk + 10 min q&a discussion each)
+(20 min talk + 10 min Q&A each)
 
 **11:15 – 11:45 &#124; Coffee Break**
 
 **11:45 – 12:45 &#124; Keynote**  
-**Speaker**: [Jamie Cummins](https://github.com/JamieCummins), University of Bern Format: 40 min talk + 20 min Q&A
+**Speaker**: [Jamie Cummins](https://github.com/JamieCummins), University of Bern  
+(40 min talk + 20 min Q&A)
 
 
 **12:45 – 13:45 &#124; Lunch Break**  
@@ -76,6 +77,7 @@ Facilitator: **Krist Vaesen**, Eindhoven University of Technology
 Facilitator: **Yara Daamen**, Eindhoven University of Technology  
 **Workshop 4 — FAIR Validation of Automated Tools**  
 Facilitator: **Michèle Nuijten**, Tilburg University
+
 Each group will present a short summary of insights.
 
 **17:00 – 17:30 &#124; Final Conclusions**  
