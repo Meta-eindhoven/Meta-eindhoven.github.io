@@ -71,11 +71,9 @@ Topics include governance of AI in peer review, incentives for research integrit
 Participants can attend up to two workshops; however, they may be reassigned to a different session if capacity limits are reached.  
 **Workshop 1 — Automated Review vs. Lottery**  
 Facilitator: **Finn Luebber**, University of Luebeck  
-**Workshop 2 — Scientific Monoculture and Bias Amplification**  
-Facilitator: **Krist Vaesen**, Eindhoven University of Technology  
-**Workshop 3 — Verification Strategies for AI-Accelerated Science**  
+**Workshop 2 — Verification Strategies for AI-Accelerated Science**  
 Facilitator: **Yara Daamen**, Eindhoven University of Technology  
-**Workshop 4 — FAIR Validation of Automated Tools**  
+**Workshop 3 — FAIR Validation of Automated Tools**  
 Facilitator: **Michèle Nuijten**, Tilburg University
 
 Each group will present a short summary of insights.
