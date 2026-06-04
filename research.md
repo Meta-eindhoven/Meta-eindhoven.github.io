@@ -116,13 +116,17 @@ Members of META/e have worked on/are working on the following assorted meta-scie
 - Research integrity
 - Meaningfully interpreting experimental results
 - Costs of restricted access to publicly funded science
+- Responsible academic assessment
 
 <br>
 
 *Publications*:
 
 <ul>
+<li class="publication"><strong>Project Report: Responsible Academic Assessment at TU/e</strong>(v1.1) by <strong>Andrea Kis</strong>, Julma Braat. <em>Zenodo</em> (2026). <a href="https://doi.org/10.5281/zenodo.19664937" target="_blank">https://doi.org/10.5281/zenodo.19664937</a>.</li>
 <li class="publication"><strong>Neomania: How Our Obsession With Innovation is Failing Science, and How to Restore Trust.</strong> by <strong>Krist Vaesen</strong>. <em>Open Book Publishers</em> (2026). <a href="https://doi.org/10.11647/OBP.0507" target="_blank">https://doi.org/10.11647/OBP.0507</a>.</li>
+<li class="publication"><strong>Responsible Academic Assessment at TU/e - From Principles to Practice (Training)</strong> by Klara Stricker,<strong>Andrea Kis</strong>, Julma Braat, Janna Heynen-Bahnke. <em>Zenodo</em> (2025). <a href="https://doi.org/10.5281/zenodo.18020645" target="_blank">https://doi.org/10.5281/zenodo.18020645</a>.</li>
+<li class="publication"><strong>Behind Closed Doors: The Academic Assessment Game.</strong> by <strong>Andrea Kis</strong>, Julma Braat. <em>Zenodo</em> (2025). <a href="https://doi.org/10.5281/zenodo.17701753" target="_blank">https://doi.org/10.5281/zenodo.17701753</a>.</li>
 <li class="publication"><strong>Academic research values: Conceptualization and initial steps of scale development</strong> by <strong>Andrea Kis</strong>, Elena Mas Tur, <strong>Krist Vaesen</strong>, <strong>Wybo Houkes</strong>, <strong>Daniël Lakens</strong>. <em>Plos one</em> (2025). <a href="https://doi.org/10.1371/journal.pone.0318086" target="_blank">https://doi.org/10.1371/journal.pone.0318086</a>.</li>
 <li class="publication"><strong>Questionable research practices in competitive grant funding: A survey</strong> by Stijn Conix, Steven De Peuter, Andreas De Block, <strong>Krist Vaesen</strong>. <em>Plos one</em> (2023). <a href="https://doi.org/10.1371/journal.pone.0293310" target="_blank">https://doi.org/10.1371/journal.pone.0293310</a>.</li>
 <li class="publication"><strong>Leaving academia: PhD attrition and unhealthy research environments</strong> by <strong>Andrea Kis</strong>, Elena Mas Tur, <strong>Daniël Lakens</strong>, <strong>Krist Vaesen</strong>, <strong>Wybo Houkes</strong>. <em>Plos one</em> (2022). <a href="https://doi.org/10.1371/journal.pone.0274976" target="_blank">https://doi.org/10.1371/journal.pone.0274976</a>.</li>
