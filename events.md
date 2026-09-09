@@ -10,75 +10,19 @@ layput: page
     Conference
 </div>
 
-## META/e Conference on Transparency, Technology and AI in Peer Review  
-**Location: De Zwarte Doos, Eindhoven University of Technology,  5 June 2026**
+## The Future of Science: How intellectual virtues guide AI accelerated science
+**Location: Eindhoven University of Technology, 5-6 November 2026 **
 
 <div style="text-align: center;">
-    <img src="/assets/img/AI%20in%20peer%20review.png" width="50%" alt="Conference banner: AI in peer review">
+    <img src="/assets/img/conference_banner.jpeg" width="50%" alt="Conference banner">
 </div>
 
-This conference focuses on the use of technology and AI-based tools in peer review, grant evaluation, and research assessment. Taking place on **June 5**, it addresses how these technologies are being introduced into review processes, what problems they are meant to solve, and what new risks they may create for research quality, fairness, and accountability. The event aims to critically examining practical experiences, emerging norms, and governance questions around technology-assisted review. Through exchange between experts from research, funding, publishing, policy, and science journalism, the conference seeks to clarify where technology can genuinely support evaluation processes and where clear boundaries, oversight, or restraint are needed to safeguard trust and integrity in science.
+**Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), [Dvija Mehta](https://www.dvijamehta.com/), [Yara Daamen](https://www.linkedin.com/in/yara-daamen), [Alessia-Maria Postelnicu](https://www.linkedin.com/in/alessia-postelnicu/), [Aliya Koishina](https://www.linkedin.com/in/aliya-koishina/)
 
-Maximum attendees: 100  
-**Organizers**: [Vlasta Sikimić](https://vlastasikimic.com/), Cristian Mesquida, [Dvija Mehta](https://www.dvijamehta.com/)
+Please Register here: [ The Future of Science: How intellectual virtues guide AI accelerated science – Fill out form](https://forms.cloud.microsoft/e/c63bQPP03i). Registration is on a first-come basis.
 
-Please Register here: [Conference on Transparency, Technology and AI in Peer Review – Collaboration](https://forms.office.com/e/JA9SqHmfVU)
+Submit abstracts here: [Call for abstracts – Fill out form](https://forms.cloud.microsoft/e/Hur2ZLjwAe)
 
-Registration is on first-come basis.
+Generative AI has entered everyday scientific practice at various levels, from literature searches and data analysis to writing and even peer review. However, using genAI without understanding its limits and biases is associated with certain risks. In the Netherlands, a group of scientists already called for the stop of the uncritical adoption of AI in academia in an open letter, emphasizing the risks for critical thinking and intellectual autonomy. Using genAI can challenge the virtues of the scientific community. Virtues are beneficial traits of a person or group. Thus, our conference will explore how virtues such as justice and curiosity can be preserved as generative AI becomes more prevalent within the scientific community. 
 
-
-## Conference Program
-
-**09:30 – 10:00 &#124; Registration & Welcome Coffee (filmzaal, De Zwarte Doos building)**  
-Arrival, name badges, informal networking
-
-**10:00 – 10:15 &#124; Opening Remarks**  
-**Speaker**: Vlasta Sikimić  
-Welcome and introduction to the workshop. Overview of the motivation, goals, and structure of the day.
-
-**10:15 – 11:15 &#124; Motivations**  
-Two talks introducing key motivations for discussing AI in peer review.  
-**Cristian Mesquida** — Metacheck: Improving Research Quality Before Submission  
-**Dvija Mehta** — Epistemic Responsibility in Science and the Role of Disclosure Policies  
-(20 min talk + 10 min Q&A each)
-
-**11:15 – 11:45 &#124; Coffee Break**
-
-**11:45 – 12:45 &#124; Keynote**  
-**Speaker**: [Jamie Cummins](https://github.com/JamieCummins), University of Bern  
-(40 min talk + 20 min Q&A)
-
-
-**12:45 – 13:45 &#124; Lunch Break**  
-On-site lunch and informal networking.
-
-**13:45 – 14:45 &#124; Panel Discussion**  
-**The Multi-Stakeholder Future of Peer Review**
-
-**Panelists**:  
-Puck Wildschut, NWO  
-[Matthijs Timmermans](https://neth-er.eu/nether/medewerkers/matthijs-timmermans), Policy Officer at Neth-ER  
-[Hein Duijf](https://www.uu.nl/medewerkers/HWADuijf), Universiteit Utrecht  
-[Felienne Hermans](https://www.felienne.com/), Universiteit Amsterdam  
-Marieke van Duin, Programme officer at NWO
-
-Topics include governance of AI in peer review, incentives for research integrity, and the roles of publishers, funders, and researchers.
-
-**14:45 – 15:15 &#124; Coffee Break**
-
-**15:15 – 17:00 &#124; Interactive Workshops**
-
-Participants can attend up to two workshops; however, they may be reassigned to a different session if capacity limits are reached.  
-**Workshop 1 — Automated Review vs. Lottery**  
-Facilitator: **Finn Luebber**, University of Luebeck  
-**Workshop 2 — Verification Strategies for AI-Accelerated Science**  
-Facilitator: **Yara Daamen**, Eindhoven University of Technology  
-**Workshop 3 — FAIR Validation of Automated Tools**  
-Facilitator: **Michèle Nuijten**, Tilburg University
-
-Each group will present a short summary of insights.
-
-**17:00 – 17:30 &#124; Final Conclusions**  
-Summary of key insights from the talks, panel discussion, and workshops.
-
-This event is sponsored by the Eindhoven University of Technology (TU/e) Center of Humans & Technology. For more information about the center and its initiatives, please visit: [Humans and Technology](https://www.tue.nl/en/research/research-areas/humans-and-technology).
+The two days will include keynote talks, motivational talks, workshops, and panel discussions, drawing on perspectives from academia, research, policy, and other disciplines. Coffee breaks are built in for networking, and lunch is included both days.
