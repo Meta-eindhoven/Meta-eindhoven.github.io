@@ -28,5 +28,5 @@ Generative AI has entered everyday scientific practice at various levels, from l
 
 The two days will include keynote talks, motivational talks, workshops, and panel discussions, drawing on perspectives from academia, research, policy, and other disciplines. Coffee breaks are built in for networking, and lunch is included both days.
 
-Confirmed speakers and contributors include Liviu Stirbat (European Commission), Sonya Smets (University of Amsterdam), Kaja Damnjanović (University of Belgrade), and more. 
+Confirmed speakers and contributors include Liviu Stirbat (European Commission), Sonja Smets (University of Amsterdam), Kaja Damnjanović (University of Belgrade), and more. 
 This event is funded by the NWO Domain Social Sciences and Humanities Open Competition XS Grant.
