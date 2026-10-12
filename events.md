@@ -19,10 +19,10 @@ layput: page
 
 **Organizers**: **[Sikimić Lab for Intellectual and Value Progress](https://sikimiclab.com/)**: [Vlasta Sikimić](https://vlastasikimic.com/), [Dvija Mehta](https://www.dvijamehta.com/), [Yara Daamen](https://www.linkedin.com/in/yara-daamen), [Alessia-Maria Postelnicu](https://www.linkedin.com/in/alessia-postelnicu/), [Aliya Koishina](https://www.linkedin.com/in/aliya-koishina/)
 
-Please Register here: [ The Future of Science: How intellectual virtues guide AI accelerated science – Fill out form](https://forms.cloud.microsoft/e/c63bQPP03i). 
+Please **Register** here: [ The Future of Science: How intellectual virtues guide AI accelerated science – Fill out form](https://forms.cloud.microsoft/e/c63bQPP03i). 
 Registration is on a first-come basis.
 
-CFA deadline Extended! Submit abstracts here now by the 25th of October for short presentations: [Call for abstracts – Fill out form](https://forms.cloud.microsoft/e/Hur2ZLjwAe)
+**CFA deadline Extended**! Submit abstracts here now by the **25th of October** for short presentations: [Call for abstracts – Fill out form](https://forms.cloud.microsoft/e/Hur2ZLjwAe)
 
 Generative AI has entered everyday scientific practice at various levels, from literature searches and data analysis to writing and even peer review. However, using genAI without understanding its limits and biases is associated with certain risks. In the Netherlands, a group of scientists already called for the stop of the uncritical adoption of AI in academia in an open letter, emphasizing the risks for critical thinking and intellectual autonomy. Using genAI can challenge the virtues of the scientific community. Virtues are beneficial traits of a person or group. Thus, our conference will explore how virtues such as justice and curiosity can be preserved as generative AI becomes more prevalent within the scientific community. 
 
