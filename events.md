@@ -28,7 +28,7 @@ Generative AI has entered everyday scientific practice at various levels, from l
 
 The two days will include keynote talks, motivational talks, workshops, and panel discussions, drawing on perspectives from academia, research, policy, and other disciplines. Coffee breaks are built in for networking, and lunch is included both days.
 
-Confirmed speakers and contributors include **Liviu Stirbat** (European Commission), **Sonja Smets** (University of Amsterdam), **Kaja Damnjanović** (University of Belgrade), **Jon Verriet** (Unesco Netherlands Commission), **Anthony Gadsdon** (NWO), **Mykola Pechenizkiy** (TU/e) and more. 
+Confirmed speakers and contributors include **Nick Vangheluwe** (European Commission), **Sonja Smets** (University of Amsterdam), **Kaja Damnjanović** (University of Belgrade), **Jon Verriet** (Unesco Netherlands Commission), **Anthony Gadsdon** (NWO), **Mykola Pechenizkiy** (TU/e) and more. 
 This event is funded by the NWO Domain Social Sciences and Humanities Open Competition XS Grant.
 
 ## Tentative Schedule
@@ -39,9 +39,9 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | --- | --- |
 | 12:30–13:00 | Registration, coffee & snacks |
 | 13:00–13:10 | Introduction and motivation |
-| 13:10–14:15 | Panel discussion with Kaja Damnjanović, Jon Verriet, Anthony Gadsdon and Mykola Pechenizkiy, led by Vlasta Sikimić |
+| 13:10–14:15 | Panel discussion with Kaja Damnjanović (University of Belgrade), Jon Verriet (Unesco Netherlands Commission), Anthony Gadsdon (NWO) and Mykola Pechenizkiy (TU/e), led by Vlasta Sikimić (TU/e) |
 | 14:15–14:45 | Coffee break |
-| 14:45–15:45 | Workshop 1, led by Yara Daamen |
+| 14:45–15:45 | Workshop 1, led by Yara Daamen (TU/e) |
 | 16:00–17:15 | Contributed talks |
 
 ### Day 2 – Friday 6 November 2026
@@ -50,14 +50,14 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | --- | --- |
 | 09:30–09:50 | Walk-in & registration |
 | 09:50–10:00 | Introduction: day programme and motivation |
-| 10:00–11:00 | Keynote: Nick Vangheluwe |
+| 10:00–11:00 | Keynote: Nick Vangheluwe (European Commission) |
 | 11:00–11:30 | Coffee |
 | 11:30–12:30 | Workshop 2, led by Vlasta Sikimić |
 | 12:30–13:30 | Contributed talks|
 | 13:30–14:15 | Lunch break |
-| 14:15–14:45 | Lab introduction |
+| 14:15–14:45 | Lab introduction: talk by Alessia Postelnicu (TU/e) |
 | 14:45–15:00 | Coffee break |
 | 15:00–15:30 | Contributed talks |
-| 15:30–16:30 | Keynote: Sonja Smets |
+| 15:30–16:30 | Keynote: Sonja Smets (University of Amsterdam) |
 | 16:30–16:45 | Closing & thanks |
 
