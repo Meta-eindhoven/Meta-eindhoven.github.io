@@ -41,7 +41,7 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | 13:00–13:10 | Introduction and motivation |
 | 13:10–14:15 | Panel discussion with Kaja Damnjanović (University of Belgrade), Jon Verriet (Unesco Netherlands Commission), Anthony Gadsdon (NWO) and Mykola Pechenizkiy (TU/e), led by Vlasta Sikimić (TU/e) |
 | 14:15–14:45 | Coffee break |
-| 14:45–15:45 | Workshop 1, led by Yara Daamen (TU/e) |
+| 14:45–15:45 | Workshop 1: Intellectual Virtues for Working with AI, led by Yara Daamen (TU/e) |
 | 16:00–17:15 | Contributed talks |
 
 ### Day 2 – Friday 6 November 2026
@@ -52,7 +52,7 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | 09:50–10:00 | Introduction: day programme and motivation |
 | 10:00–11:00 | Keynote: Nick Vangheluwe (European Commission) |
 | 11:00–11:30 | Coffee |
-| 11:30–12:30 | Workshop 2, led by Vlasta Sikimić |
+| 11:30–12:30 | Workshop 2: AI Across the Stages of Research, led by Vlasta Sikimić |
 | 12:30–13:30 | Contributed talks|
 | 13:30–14:15 | Lunch break |
 | 14:15–14:45 | Lab introduction: talk by Alessia Postelnicu (TU/e) |
