@@ -39,10 +39,13 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | --- | --- |
 | 12:30–13:00 | Registration, coffee & snacks |
 | 13:00–13:10 | Introduction and motivation |
-| 13:10–14:15 | Panel discussion with Kaja Damnjanović (University of Belgrade), Jon Verriet (Unesco Netherlands Commission), Anthony Gadsdon (NWO) and Mykola Pechenizkiy (TU/e), led by Vlasta Sikimić (TU/e) |
+| 13:10–14:15 | Panel discussion with Kaja Damnjanović (University of Belgrade), Jon Verriet(Unesco Netherlands Commission), Anthony Gadsdon (NWO) and Mykola Pechenizkiy (TU/e), led by Vlasta Sikimić (TU/e)|
 | 14:15–14:45 | Coffee break |
-| 14:45–15:45 | Workshop 1: Intellectual Virtues for Working with AI, led by Yara Daamen (TU/e) |
-| 16:00–17:15 | Contributed talks |
+| 14:45–15:45 | Workshop 1: Intellectual Virtues for Working with AI, led by Yara Daamen (TU/e)|
+| 15:45–16:20 | Break |
+| 16:20–16:35 | Contributed talk: Henry Kalter (University of Amsterdam), "Can science be rigorous without rigorous scientists? Rigor as an epistemic virtue in AI-accelerated science" |
+| 16:40–16:55 | Contributed talk: Dina Babushkina (University of Twente), "Cognitive Effort and Epistemic Ownership" |
+| 17:00–17:15 | Contributed talk: Geert Bukkems (Center for Community Emergence & Regeneration), "Traceable Evidence: What AI-Assisted Weapons Review Owes Children" |
 
 ### Day 2 – Friday 6 November 2026
 
@@ -50,14 +53,14 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | --- | --- |
 | 09:30–09:50 | Walk-in & registration |
 | 09:50–10:00 | Introduction: day programme and motivation |
-| 10:00–11:00 | Keynote: Nick Vangheluwe (European Commission) |
+| 10:00–11:00 | Keynote: Nick Vangheluwe (European Commission)|
 | 11:00–11:30 | Coffee |
-| 11:30–12:30 | Workshop 2: AI Across the Stages of Research, led by Vlasta Sikimić |
-| 12:30–13:30 | Contributed talks|
-| 13:30–14:15 | Lunch break |
-| 14:15–14:45 | Lab introduction: talk by Alessia Postelnicu (TU/e) |
-| 14:45–15:00 | Coffee break |
-| 15:00–15:30 | Contributed talks |
+| 11:30–12:30 | Workshop 2: AI Across the Stages of Research, led by Vlasta Sikimić (TU/e) |
+| 12:30–12:45 | Contributed talk: CeesJan Mol, "Relational AI in Practice: Exploring New Paradigms for Human–AI Scientific Inquiry" |
+| 12:50–13:05 | Contributed talk: Larno Visser, "When the Measure Becomes the Goal: Reward Hacking in Science" |
+| 13:10–13:25 | Contributed talk: Guang Hu (TU/e), "A Tool, Not an Author: Why Generative AI Makes Expertise and Accountability Matter More in Computational Research" |
+| 13:25–14:15 | Lunch |
+| 14:15–14:45 | Lab introduction: talk by Alessia Postelnicu (TU/e)|
+| 14:45–15:30 | Coffee break |
 | 15:30–16:30 | Keynote: Sonja Smets (University of Amsterdam) |
 | 16:30–16:45 | Closing & thanks |
-
