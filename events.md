@@ -30,11 +30,12 @@ The two days will include keynote talks, motivational talks, workshops, and pane
 
 Confirmed speakers and contributors include **Nick Vangheluwe** (European Commission), **Sonja Smets** (University of Amsterdam), **Kaja Damnjanović** (University of Belgrade), **Jon Verriet** (Unesco Netherlands Commission), **Anthony Gadsdon** (NWO), **Mykola Pechenizkiy** (TU/e) and more. 
 This event is funded by the NWO Domain Social Sciences and Humanities Open Competition XS Grant.
+The venue is **Atlas 10.330** at TU/e.
 
 ## Tentative Schedule
 
 ### Day 1 – Thursday 5 November 2026
-at **Atlas 10.330**
+
 | Time | Session |
 | --- | --- |
 | 12:30–13:00 | Registration, coffee & snacks |
@@ -48,7 +49,7 @@ at **Atlas 10.330**
 | 17:00–17:15 | Contributed talk: Geert Bukkems (Center for Community Emergence & Regeneration), "Traceable Evidence: What AI-Assisted Weapons Review Owes Children" |
 
 ### Day 2 – Friday 6 November 2026
-at **Atlas 10.330**
+
 | Time | Session |
 | --- | --- |
 | 09:30–09:50 | Walk-in & registration |
