@@ -34,7 +34,7 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 ## Tentative Schedule
 
 ### Day 1 – Thursday 5 November 2026
-
+at **Atlas 10.330**
 | Time | Session |
 | --- | --- |
 | 12:30–13:00 | Registration, coffee & snacks |
@@ -48,7 +48,7 @@ This event is funded by the NWO Domain Social Sciences and Humanities Open Compe
 | 17:00–17:15 | Contributed talk: Geert Bukkems (Center for Community Emergence & Regeneration), "Traceable Evidence: What AI-Assisted Weapons Review Owes Children" |
 
 ### Day 2 – Friday 6 November 2026
-
+at **Atlas 10.330**
 | Time | Session |
 | --- | --- |
 | 09:30–09:50 | Walk-in & registration |
