@@ -11,7 +11,7 @@ layput: page
 </div>
 
 ## The Future of Science: How intellectual virtues guide AI accelerated science
-**Location: Eindhoven University of Technology, 5-6 November 2026**
+**Location: Atlas 10.330, Eindhoven University of Technology, 5-6 November 2026**
 
 <div style="text-align: center;">
     <img src="/assets/img/conference_banner.jpeg" width="50%" alt="Conference banner">
@@ -30,7 +30,7 @@ The two days will include keynote talks, motivational talks, workshops, and pane
 
 Confirmed speakers and contributors include **Nick Vangheluwe** (European Commission), **Sonja Smets** (University of Amsterdam), **Kaja Damnjanović** (University of Belgrade), **Jon Verriet** (Unesco Netherlands Commission), **Anthony Gadsdon** (NWO), **Mykola Pechenizkiy** (TU/e) and more. 
 This event is funded by the NWO Domain Social Sciences and Humanities Open Competition XS Grant.
-The venue is **Atlas 10.330** at TU/e.
+
 
 ## Tentative Schedule
 
