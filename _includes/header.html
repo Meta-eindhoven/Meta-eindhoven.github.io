@@ -33,10 +33,11 @@
             {% endif %}
           {% endif %}
           
-          {% if include.type == "post" %} 
+          {% if include.type == "post" %}
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
+            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
           {% endif %}
 
         </div>
