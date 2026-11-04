@@ -12,7 +12,7 @@ layput: page
 
 ## The Future of Science: How intellectual virtues guide AI accelerated science
 
-**Venue**: Atlas building, 10th floor, room 10.330, Eindhoven University of Technology.
+**Venue**: Atlas building, 10th floor, room 10.330, Eindhoven University of Technology.  
 **Address**: Het Eeuwsel 53, 5612 AZ Eindhoven, the Netherlands. [View location and directions](https://www.google.com/maps/search/?api=1&query=Atlas+Het+Eeuwsel+53+Eindhoven).
 
 <div style="text-align: center;">
