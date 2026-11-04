@@ -571,7 +571,8 @@ footer .footer-custom-content {
   color: var(--mid-col);
   font-size: 1.125rem;
   font-style: italic;
-  margin: 0 10px 10px 270px;
+  margin: 0 0 10px 0;
+  text-align: left;
   font-family: var(--body-font);
 }
 .post-heading .post-meta {
@@ -584,7 +585,7 @@ footer .footer-custom-content {
   }
 }
 .post-heading .post-meta .middot {
-  margin: 0 10px 10px 270px;
+  margin: 0 10px;
 }
 .post-preview .post-entry {
   width: 100%;
