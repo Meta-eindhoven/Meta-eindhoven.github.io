@@ -11,7 +11,9 @@ layput: page
 </div>
 
 ## The Future of Science: How intellectual virtues guide AI accelerated science
-**Location: Atlas 10.330, Eindhoven University of Technology, 5-6 November 2026**
+
+**Venue**: Atlas building, 10th floor, room 10.330, Eindhoven University of Technology.
+**Address**: Het Eeuwsel 53, 5612 AZ Eindhoven, the Netherlands. [View location and directions](https://www.google.com/maps/search/?api=1&query=Atlas+Het+Eeuwsel+53+Eindhoven).
 
 <div style="text-align: center;">
     <img src="/assets/img/conference_banner.jpeg" width="50%" alt="Conference banner">
